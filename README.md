@@ -13,10 +13,11 @@ The Crypto/currency &amp; Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" />    | btc      | Bitcoin         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" />   | busd     | Binance USD     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />    | ckb      | Nervos Network  |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />    | dai      | Dai            |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" />    | dot      | Polkadot            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />    | dai      | Dai             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" />    | dot      | Polkadot        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" />   | firo     | Firo            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" />    | gas      | Gas             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" />   | link     | Chainlink       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" />    | lit      | Litentry        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" />    | ltc      | Litecoin        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />    | neo      | NEO             |
