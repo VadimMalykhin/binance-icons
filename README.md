@@ -4,8 +4,8 @@ The Crypto/currency &amp; Stock icons listed on Binance exchange.
 <details>
   <summary>Preview</summary>
 
-| Icon                       | Symbol   | Name         |
-|:--------------------------:|---------:|:-------------|
+| Icon | Symbol | Name |
+|:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" />  | 1inch    | 1inch           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" />    | ada      | Cardano         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/algo.svg" width="32" height="32" />   | algo     | Algorand        |
