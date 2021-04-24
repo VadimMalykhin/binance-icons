@@ -35,6 +35,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" />   | cake   | PancakeSwap           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" />    | cdt    | Blox                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celo.svg" width="32" height="32" />   | celo   | Celo                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celr.svg" width="32" height="32" />   | celr   | Celer Network         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" />    | chr    | Chromia               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />    | ckb    | CKB                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />    | crv    | Curve                 |
