@@ -24,6 +24,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/avax.svg" width="32" height="32" />   | avax   | Avalanche          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/band.svg" width="32" height="32" />   | band   | BAND               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />    | bnb    | BNB                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" />    | bnt    | Bancor             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/brd.svg" width="32" height="32" />    | brd    | Bread              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" />    | btc    | Bitcoin            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" />   | busd   | BUSD               |
@@ -59,6 +60,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />    | ogn    | OriginToken        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" />    | ong    | Ontology Gas       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" />    | ont    | Ontology           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" />    | oxt    | Orchid             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />    | ren    | Ren                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" /> | renbtc | renBTC             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />     | sc     | Siacoin            |
