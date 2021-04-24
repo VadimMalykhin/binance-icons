@@ -48,6 +48,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" />    | enj    | Enjin Coin            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" />    | eos    | EOS                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" />    | evx    | Everex                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fet.svg" width="32" height="32" />    | fet    | Fetch.AI              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fil.svg" width="32" height="32" />    | fil    | Filecoin              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" />   | firo   | Firo                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" />    | flm    | Flamingo              |
@@ -58,6 +59,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" />    | gto    | Gifto                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />   | hard   | HARD Protocol         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />   | hbar   | Hedera Hashgraph      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" />   | iost   | IOST                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iota.svg" width="32" height="32" />   | iota   | MIOTA                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kava.svg" width="32" height="32" />   | kava   | Kava                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/knc.svg" width="32" height="32" />    | knc    | KyberNetwork          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" />    | ksm    | Kusama                |
