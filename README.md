@@ -30,6 +30,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" />   | busd   | BUSD               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" />   | cake   | PancakeSwap        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" />    | cdt    | Blox               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celo.svg" width="32" height="32" />   | celo   | Celo               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" />    | chr    | Chromia            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />    | ckb    | CKB                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />    | crv    | Curve              |
@@ -86,6 +87,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" />    | xmr    | Monero             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" />    | xrp    | Ripple             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" />    | xtz    | Tezos              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xvs.svg" width="32" height="32" />    | xvs    | Venus              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfi.svg" width="32" height="32" />    | yfi    | yearn.finance      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />   | yfii   | DFI.Money          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />    | zen    | Horizen            |
