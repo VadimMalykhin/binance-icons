@@ -1,8 +1,10 @@
 # binance-icons
 The Crypto/currency & Stock icons listed on Binance exchange.
 
+## Preview
+
 <details>
-  <summary>Preview</summary>
+  <summary>Crypto</summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -74,4 +76,16 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />   | yfii   | DFI.Money          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />    | zen    | Horizen            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zrx.svg" width="32" height="32" />    | zrx    | 0x                 |
+</details>
+
+<details>
+  <summary>Currency</summary>
+  
+  ...
+</details>
+
+<details>
+  <summary>Stock</summary>
+    
+  ...
 </details>
