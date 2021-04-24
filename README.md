@@ -38,6 +38,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />   | dash   | Dash               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dnt.svg" width="32" height="32" />    | dnt    | district0x         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dodo.svg" width="32" height="32" />   | dodo   | DODO               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/doge.svg" width="32" height="32" />   | doge   | Dogecoin           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" />    | dot    | Polkadot           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" />   | easy   | EasyFi             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" />    | enj    | Enjin Coin         |
@@ -66,6 +67,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" />    | ong    | Ontology Gas       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" />    | ont    | Ontology           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" />    | oxt    | Orchid             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" />   | prom   | Prometeus          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />    | ren    | Ren                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" /> | renbtc | renBTC             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />     | sc     | Siacoin            |
@@ -90,6 +92,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xvs.svg" width="32" height="32" />    | xvs    | Venus              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfi.svg" width="32" height="32" />    | yfi    | yearn.finance      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />   | yfii   | DFI.Money          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zec.svg" width="32" height="32" />    | zec    | Zcash              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />    | zen    | Horizen            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zrx.svg" width="32" height="32" />    | zrx    | 0x                 |
 </details>
