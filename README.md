@@ -20,7 +20,9 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" />   | appc   | AppCoins           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" />   | ardr   | Ardor              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />    | ark    | Ark                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />    | ast    | AirSwap            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/audio.svg" width="32" height="32" />  | audio  | Audius             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ava.svg" width="32" height="32" />    | ava    | Travala.com        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/avax.svg" width="32" height="32" />   | avax   | Avalanche          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/band.svg" width="32" height="32" />   | band   | BAND               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />    | bnb    | BNB                |
@@ -46,6 +48,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fil.svg" width="32" height="32" />    | fil    | Filecoin           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" />   | firo   | Firo               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" />    | flm    | Flamingo           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" />    | fxs    | Frax Share         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" />    | gas    | NeoGas             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" />   | ghst   | Aavegotchi         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grt.svg" width="32" height="32" />    | grt    | The Graph          |
