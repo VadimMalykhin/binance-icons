@@ -54,4 +54,6 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" />    | xmr    | Monero            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" />    | xrp    | Ripple            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" />    | xtz    | Tezos             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />    | zen    | Horizen           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zrx.svg" width="32" height="32" />    | zrx    | 0x                |
 </details>
