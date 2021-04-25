@@ -88,11 +88,14 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />    | ren    | Ren                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" /> | renbtc | renBTC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" />    | rep    | Augur v2              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" />    | rvn    | Ravencoin             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" />   | sand   | The Sandbox           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />     | sc     | Siacoin               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" />    | sfp    | SafePal               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" />    | sky    | Skycoin               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" />    | snm    | SONM                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" />    | snt    | Status                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" />  | storj  | Storj                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" />    | stx    | Stacks                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" />  | sushi  | Sushi                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxp.svg" width="32" height="32" />    | sxp    | Swipe                 |
@@ -103,8 +106,11 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" />    | uni    | Uniswap               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" />   | usdc   | USD Coin              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />   | usdt   | TetherUS              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" />  | waves  | Waves                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" />   | wing   | Wing Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" />    | wtc    | Walton                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" />    | xem    | NEM                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" />    | xlm    | Stellar Lumens        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" />    | xmr    | Monero                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" />    | xrp    | Ripple                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" />    | xtz    | Tezos                 |
