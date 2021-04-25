@@ -82,6 +82,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />    | neo    | NEO                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />    | ogn    | OriginToken           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/omg.svg" width="32" height="32" />    | omg    | OMG Network           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/one.svg" width="32" height="32" />    | one    | Harmony               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" />    | ong    | Ontology Gas          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" />    | ont    | Ontology              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" />    | oxt    | Orchid                |
