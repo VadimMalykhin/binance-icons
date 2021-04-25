@@ -51,6 +51,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" />    | evx    | Everex                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fet.svg" width="32" height="32" />    | fet    | Fetch.AI              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fil.svg" width="32" height="32" />    | fil    | Filecoin              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fio.svg" width="32" height="32" />    | fio    | FIO Protocol          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" />   | firo   | Firo                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" />    | flm    | Flamingo              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" />    | fxs    | Frax Share            |
