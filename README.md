@@ -47,6 +47,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dodo.svg" width="32" height="32" />   | dodo   | DODO                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/doge.svg" width="32" height="32" />   | doge   | Dogecoin              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" />    | dot    | Polkadot              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" />   | dusk   | Dusk Network          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" />   | easy   | EasyFi                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" />    | enj    | Enjin Coin            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" />    | eos    | EOS                   |
@@ -74,6 +75,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" />    | lit    | Litentry              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lrc.svg" width="32" height="32" />    | lrc    | Loopring              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" />    | ltc    | Litecoin              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" />   | luna   | Terra                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" />   | mana   | Decentraland          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" />  | matic  | Polygon               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />   | near   | NEAR Protocol         |
@@ -83,11 +85,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" />    | ong    | Ontology Gas          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" />    | ont    | Ontology              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" />    | oxt    | Orchid                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pax.svg" width="32" height="32" />    | pax    | Paxos Standard        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" />   | prom   | Prometeus             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" />    | qsp    | Quantstamp            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />    | ren    | Ren                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" /> | renbtc | renBTC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" />    | rep    | Augur v2              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rose.svg" width="32" height="32" />   | rose   | Oasis Network         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" />    | rvn    | Ravencoin             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" />   | sand   | The Sandbox           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />     | sc     | Siacoin               |
@@ -102,7 +106,9 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tfuel.svg" width="32" height="32" />  | tfuel  | Theta Fuel            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/theta.svg" width="32" height="32" />  | theta  | Theta Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trx.svg" width="32" height="32" />    | trx    | TRON                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tusd.svg" width="32" height="32" />   | tusd   | TrueUSD               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/twt.svg" width="32" height="32" />    | twt    | Trust Wallet Token    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unfi.svg" width="32" height="32" />   | unfi   | Unifi Protocol DAO    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" />    | uni    | Uniswap               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" />   | usdc   | USD Coin              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />   | usdt   | TetherUS              |
