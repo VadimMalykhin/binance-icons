@@ -60,6 +60,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" />    | gas    | NeoGas                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" />   | ghst   | Aavegotchi            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glm.svg" width="32" height="32" />    | glm    | Golem                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grs.svg" width="32" height="32" />    | grs    | Groestlcoin           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grt.svg" width="32" height="32" />    | grt    | The Graph             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" />    | gto    | Gifto                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />   | hard   | HARD Protocol         |
