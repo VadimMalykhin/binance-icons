@@ -31,6 +31,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" />    | bnt    | Bancor                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/brd.svg" width="32" height="32" />    | brd    | Bread                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" />    | btc    | Bitcoin               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btt.svg" width="32" height="32" />    | btt    | BitTorrent            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" />   | busd   | BUSD                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" />   | cake   | PancakeSwap           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" />    | cdt    | Blox                  |
