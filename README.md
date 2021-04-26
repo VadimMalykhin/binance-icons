@@ -143,11 +143,21 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 <details>
   <summary>Currency</summary>
   
-  ...
+| Icon | Symbol | Name |
+|:----:|-------:|:-----|
+...
 </details>
 
 <details>
   <summary>Stock</summary>
-    
-  ...
+
+| Icon | Symbol | Name |
+|:----:|-------:|:-----|
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/aapl.svg" width="32" height="32" /> | aapl | Apple                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/coin.svg" width="32" height="32" /> | coin | Coinbase Global Inc.       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/ea.svg" width="32" height="32" />   | ea   | Electronic Arts Inc.       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/msft.svg" width="32" height="32" /> | msft | Microsoft Corporation      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/mstr.svg" width="32" height="32" /> | mstr | MicroStrategy Incorporated |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/nflx.svg" width="32" height="32" /> | nflx | Netflix Inc                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/tsla.svg" width="32" height="32" /> | tsla | Tesla Inc.                 |
 </details>
