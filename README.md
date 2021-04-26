@@ -21,6 +21,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" />    | ardr    | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />     | ark     | Ark                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />     | ast     | AirSwap                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atom.svg" width="32" height="32" />    | atom    | Cosmos                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auction.svg" width="32" height="32" /> | auction | Auction                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/audio.svg" width="32" height="32" />   | audio   | Audius                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ava.svg" width="32" height="32" />     | ava     | Travala.com                     |
@@ -45,6 +46,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" />     | chr     | Chromia                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" />     | chz     | Chiliz                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />     | ckb     | CKB                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cloak.svg" width="32" height="32" />   | cloak   | CloakCoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />     | crv     | Curve                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />     | dai     | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
@@ -85,6 +87,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" />   | matic   | Polygon                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />     | neo     | NEO                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ocean.svg" width="32" height="32" />   | ocean   | Ocean Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />     | ogn     | OriginToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/omg.svg" width="32" height="32" />     | omg     | OMG Network                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/one.svg" width="32" height="32" />     | one     | Harmony                         |
