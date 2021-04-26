@@ -101,6 +101,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perl.svg" width="32" height="32" />    | perl    | Perlin                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" />    | prom    | Prometeus                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" />     | qsp     | Quantstamp                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/reef.svg" width="32" height="32" />    | reef    | Reef Finance                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />     | ren     | Ren                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" />  | renbtc  | renBTC                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" />     | rep     | Augur v2                        |
@@ -112,6 +113,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" />     | sky     | Skycoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" />     | snm     | SONM                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" />     | snt     | Status                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" />     | sol     | Solana                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" />   | storj   | Storj                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" />     | stx     | Stacks                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" />   | sushi   | Sushi                           |
@@ -162,3 +164,11 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/nflx.svg" width="32" height="32" /> | nflx | Netflix Inc                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/tsla.svg" width="32" height="32" /> | tsla | Tesla Inc.                 |
 </details>
+
+## Figma
+
+[Binance](https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1)
+
+## License
+
+MIT
