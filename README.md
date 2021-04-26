@@ -20,7 +20,9 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" />    | appc    | AppCoins                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" />    | ardr    | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />     | ark     | Ark                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" />     | asr     | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />     | ast     | AirSwap                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atm.svg" width="32" height="32" />     | atm     | Atlético de Madrid Fan Token    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atom.svg" width="32" height="32" />    | atom    | Cosmos                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auction.svg" width="32" height="32" /> | auction | Auction                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/audio.svg" width="32" height="32" />   | audio   | Audius                          |
@@ -29,6 +31,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bake.svg" width="32" height="32" />    | bake    | BakeryToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bal.svg" width="32" height="32" />     | bal     | Balancer                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/band.svg" width="32" height="32" />    | band    | BAND                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bar.svg" width="32" height="32" />     | bar     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" />     | bat     | Basic Attention Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />     | bnb     | BNB                             |
@@ -77,6 +80,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />    | hbar    | Hedera Hashgraph                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" />    | iost    | IOST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iota.svg" width="32" height="32" />    | iota    | MIOTA                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/juv.svg" width="32" height="32" />     | juv     | Juventus Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kava.svg" width="32" height="32" />    | kava    | Kava                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/knc.svg" width="32" height="32" />     | knc     | KyberNetwork                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" />     | ksm     | Kusama                          |
@@ -90,6 +94,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />     | neo     | NEO                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ocean.svg" width="32" height="32" />   | ocean   | Ocean Protocol                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/og.svg" width="32" height="32" />      | og      | OG Fan Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />     | ogn     | OriginToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/omg.svg" width="32" height="32" />     | omg     | OMG Network                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/one.svg" width="32" height="32" />     | one     | Harmony                         |
@@ -100,6 +105,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/paxg.svg" width="32" height="32" />    | paxg    | PAX Gold                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perl.svg" width="32" height="32" />    | perl    | Perlin                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" />    | prom    | Prometeus                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/psg.svg" width="32" height="32" />     | psg     | Paris Saint-Germain Fan Token   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" />     | qsp     | Quantstamp                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/reef.svg" width="32" height="32" />    | reef    | Reef Finance                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />     | ren     | Ren                             |
