@@ -15,6 +15,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aion.svg" width="32" height="32" />    | aion    | AION                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/akro.svg" width="32" height="32" />    | akro    | Akropolis                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/algo.svg" width="32" height="32" />    | algo    | Algorand                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alice.svg" width="32" height="32" />   | alice   | My Neighbor Alice               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpha.svg" width="32" height="32" />   | alpha   | Alpha Finance Lab               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/amb.svg" width="32" height="32" />     | amb     | Ambrosus                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ankr.svg" width="32" height="32" />    | ankr    | Ankr                            |
