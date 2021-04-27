@@ -34,6 +34,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bar.svg" width="32" height="32" />     | bar     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" />     | bat     | Basic Attention Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" />     | bel     | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beth.svg" width="32" height="32" />    | beth    | BETH                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />     | bnb     | BNB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" />     | bnt     | Bancor                          |
@@ -51,6 +52,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" />     | chz     | Chiliz                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />     | ckb     | CKB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cloak.svg" width="32" height="32" />   | cloak   | CloakCoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cover.svg" width="32" height="32" />   | cover   | COVER Protocol                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cream.svg" width="32" height="32" />   | cream   | Cream Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />     | crv     | Curve                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />     | dai     | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
@@ -61,8 +64,10 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" />     | dot     | Polkadot                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" />    | dusk    | Dusk Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" />    | easy    | EasyFi                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/egld.svg" width="32" height="32" />    | egld    | Elrond eGold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" />     | enj     | Enjin Coin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" />     | eos     | EOS                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/erd.svg" width="32" height="32" />     | erd     | Elrond                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etc.svg" width="32" height="32" />     | etc     | Ethereum Classic                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eth.svg" width="32" height="32" />     | eth     | Ethereum                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" />     | evx     | Everex                          |
@@ -138,6 +143,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />    | usdt    | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" />   | waves   | Waves                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" />    | wing    | Wing Token                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" />     | wrx     | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" />     | wtc     | Walton                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" />     | xem     | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" />     | xlm     | Stellar Lumens                  |
