@@ -24,6 +24,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />     | ark     | Ark                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" />     | asr     | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />     | ast     | AirSwap                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atm.svg" width="32" height="32" />     | atm     | Atlético de Madrid Fan Token    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atom.svg" width="32" height="32" />    | atom    | Cosmos                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auction.svg" width="32" height="32" /> | auction | Auction                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/audio.svg" width="32" height="32" />   | audio   | Audius                          |
