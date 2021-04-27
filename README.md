@@ -34,6 +34,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bar.svg" width="32" height="32" />     | bar     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" />     | bat     | Basic Attention Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beth.svg" width="32" height="32" />    | beth    | BETH                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />     | bnb     | BNB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" />     | bnt     | Bancor                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" />     | bot     | Bounce Token                    |
@@ -62,6 +63,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" />    | easy    | EasyFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" />     | enj     | Enjin Coin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" />     | eos     | EOS                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etc.svg" width="32" height="32" />     | etc     | Ethereum Classic                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eth.svg" width="32" height="32" />     | eth     | Ethereum                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" />     | evx     | Everex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ez.svg" width="32" height="32" />      | ez      | EasyFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fet.svg" width="32" height="32" />     | fet     | Fetch.AI                        |
