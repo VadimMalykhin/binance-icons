@@ -19,17 +19,21 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpha.svg" width="32" height="32" />   | alpha   | Alpha Finance Lab               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/amb.svg" width="32" height="32" />     | amb     | Ambrosus                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ankr.svg" width="32" height="32" />    | ankr    | Ankr                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ant.svg" width="32" height="32" />     | ant     | Aragon                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" />    | appc    | AppCoins                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" />    | ardr    | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />     | ark     | Ark                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arpa.svg" width="32" height="32" />    | arpa    | ARPA Chain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" />     | asr     | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />     | ast     | AirSwap                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atm.svg" width="32" height="32" />     | atm     | Atlético de Madrid Fan Token    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atom.svg" width="32" height="32" />    | atom    | Cosmos                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auction.svg" width="32" height="32" /> | auction | Auction                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/audio.svg" width="32" height="32" />   | audio   | Audius                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auto.svg" width="32" height="32" />    | auto    | Auto                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ava.svg" width="32" height="32" />     | ava     | Travala.com                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/avax.svg" width="32" height="32" />    | avax    | Avalanche                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/axs.svg" width="32" height="32" />     | axs     | Axie Infinity                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bake.svg" width="32" height="32" />    | bake    | BakeryToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bal.svg" width="32" height="32" />     | bal     | Balancer                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/band.svg" width="32" height="32" />    | band    | BAND                            |
