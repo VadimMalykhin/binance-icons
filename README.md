@@ -143,6 +143,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" />     | sky     | Skycoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" />     | snm     | SONM                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" />     | snt     | Status                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snx.svg" width="32" height="32" />     | snx     | Synthetix Network Token         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" />     | sol     | Solana                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" />   | storj   | Storj                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" />     | stx     | Stacks                          |
