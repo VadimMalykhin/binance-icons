@@ -74,6 +74,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/data.svg" width="32" height="32" />    | data    | Streamr DATAcoin                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dcr.svg" width="32" height="32" />     | dcr     | Decred                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dego.svg" width="32" height="32" />    | dego    | Dego Finance                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dnt.svg" width="32" height="32" />     | dnt     | district0x                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dodo.svg" width="32" height="32" />    | dodo    | DODO                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/doge.svg" width="32" height="32" />    | doge    | Dogecoin                        |
@@ -102,6 +103,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" />     | gto     | Gifto                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />    | hard    | HARD Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />    | hbar    | Hedera Hashgraph                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icp.svg" width="32" height="32" />     | icp     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" />    | iost    | IOST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iota.svg" width="32" height="32" />    | iota    | MIOTA                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/juv.svg" width="32" height="32" />     | juv     | Juventus Fan Token              |
