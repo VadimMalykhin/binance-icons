@@ -122,6 +122,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mir.svg" width="32" height="32" />     | mir     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />     | neo     | NEO                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" />     | nmr     | Numeraire                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ocean.svg" width="32" height="32" />   | ocean   | Ocean Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/og.svg" width="32" height="32" />      | og      | OG Fan Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />     | ogn     | OriginToken                     |
