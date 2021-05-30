@@ -146,6 +146,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" />     | rvn     | Ravencoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" />    | sand    | The Sandbox                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />      | sc      | Siacoin                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" />    | scrt    | Secret                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" />     | sfp     | SafePal                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/shib.svg" width="32" height="32" />    | shib    |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" />     | sky     | Skycoin                         |
