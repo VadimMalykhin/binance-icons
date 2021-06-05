@@ -70,6 +70,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cover.svg" width="32" height="32" />   | cover   | COVER Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cream.svg" width="32" height="32" />   | cream   | Cream Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />     | crv     | Curve                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" />     | cvc     | Civic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />     | dai     | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/data.svg" width="32" height="32" />    | data    | Streamr DATAcoin                |
@@ -113,6 +114,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" />     | ksm     | Kusama                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" />    | link    | ChainLink                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" />     | lit     | Litentry                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loom.svg" width="32" height="32" />    | loom    | Loom Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lpt.svg" width="32" height="32" />     | lpt     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lrc.svg" width="32" height="32" />     | lrc     | Loopring                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" />     | ltc     | Litecoin                        |
