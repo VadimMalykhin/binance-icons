@@ -95,6 +95,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fio.svg" width="32" height="32" />     | fio     | FIO Protocol                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" />    | firo    | Firo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" />     | flm     | Flamingo                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" />   | front   | Frontier                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" />     | fxs     | Frax Share                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" />     | gas     | NeoGas                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" />    | ghst    | Aavegotchi                      |
