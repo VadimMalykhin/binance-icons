@@ -127,6 +127,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />     | neo     | NEO                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" />     | nmr     | Numeraire                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nu.svg" width="32" height="32" />      | nu      |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ocean.svg" width="32" height="32" />   | ocean   | Ocean Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/og.svg" width="32" height="32" />      | og      | OG Fan Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" />     | ogn     | OriginToken                     |
@@ -188,6 +189,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />    | yfii    | DFI.Money                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zec.svg" width="32" height="32" />     | zec     | Zcash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />     | zen     | Horizen                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zil.svg" width="32" height="32" />     | zil     | Zilliqa                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zrx.svg" width="32" height="32" />     | zrx     | 0x                              |
 </details>
 
