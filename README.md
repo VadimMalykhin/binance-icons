@@ -184,7 +184,9 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" />     | xmr     | Monero                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" />     | xrp     | Ripple                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" />     | xtz     | Tezos                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xvg.svg" width="32" height="32" />     | xvg     | Verge                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xvs.svg" width="32" height="32" />     | xvs     | Venus                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xym.svg" width="32" height="32" />     | xym     | Symbol                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfi.svg" width="32" height="32" />     | yfi     | yearn.finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />    | yfii    | DFI.Money                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zec.svg" width="32" height="32" />     | zec     | Zcash                           |
