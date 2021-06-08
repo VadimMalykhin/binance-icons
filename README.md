@@ -48,6 +48,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" />     | bel     | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beth.svg" width="32" height="32" />    | beth    | BETH                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bifi.svg" width="32" height="32" />    | bifi    | Beefy.Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/blz.svg" width="32" height="32" />     | blz     | Bluzelle                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" />     | bnb     | BNB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" />     | bnt     | Bancor                          |
