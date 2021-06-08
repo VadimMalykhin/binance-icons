@@ -24,6 +24,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ankr.svg" width="32" height="32" />    | ankr    | Ankr                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ant.svg" width="32" height="32" />     | ant     | Aragon                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" />    | appc    | AppCoins                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ar.svg" width="32" height="32" />      | ar      | Arweave                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" />    | ardr    | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" />     | ark     | Ark                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arpa.svg" width="32" height="32" />    | arpa    | ARPA Chain                      |
