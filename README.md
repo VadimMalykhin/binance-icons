@@ -44,6 +44,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/band.svg" width="32" height="32" />    | band    | BAND                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bar.svg" width="32" height="32" />     | bar     | FC Barcelona Fan Token BAR      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" />     | bat     | Basic Attention Token           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcd.svg" width="32" height="32" />     | bcd     | Bitcoin Diamond                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bch.svg" width="32" height="32" />     | bch     | Bitcoin Cash                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" />     | bel     | Bella Protocol                  |
