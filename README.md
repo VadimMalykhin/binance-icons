@@ -86,6 +86,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctsi.svg" width="32" height="32" />    | ctsi    | Cartesi                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctxc.svg" width="32" height="32" />    | ctxc    | Cortex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" />     | cvc     | Civic                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvp.svg" width="32" height="32" />     | cvp     | PowerPool                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />     | dai     | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/data.svg" width="32" height="32" />    | data    | Streamr DATAcoin                |
@@ -190,7 +191,10 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" />    | usdc    | USD Coin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />    | usdt    | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" />   | waves   | Waves                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" />    | wbtc    | Wrapped Bitcoin                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" />     | win     | WINK                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" />    | wing    | Wing Token                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wnxm.svg" width="32" height="32" />    | wnxm    | Wrapped NXM                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" />     | wpr     | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" />     | wrx     | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" />     | wtc     | Walton                          |
