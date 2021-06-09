@@ -186,10 +186,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trx.svg" width="32" height="32" />     | trx     | TRON                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tusd.svg" width="32" height="32" />    | tusd    | TrueUSD                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/twt.svg" width="32" height="32" />     | twt     | Trust Wallet Token              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uft.svg" width="32" height="32" />     | uft     | UniLend                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uma.svg" width="32" height="32" />     | uma     | UMA                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unfi.svg" width="32" height="32" />    | unfi    | Unifi Protocol DAO              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" />     | uni     | Uniswap                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" />    | usdc    | USD Coin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />    | usdt    | TetherUS                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" />     | vet     | VeChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" />   | waves   | Waves                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" />    | wbtc    | Wrapped Bitcoin                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" />     | win     | WINK                            |
