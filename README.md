@@ -74,7 +74,10 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" />     | chz     | Chiliz                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />     | ckb     | CKB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cloak.svg" width="32" height="32" />   | cloak   | CloakCoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cnd.svg" width="32" height="32" />     | cnd     | Cindicator                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cocos.svg" width="32" height="32" />   | cocos   | Cocos-BCX                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/comp.svg" width="32" height="32" />    | comp    | Compound                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cos.svg" width="32" height="32" />     | cos     | Contentos                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cover.svg" width="32" height="32" />   | cover   | COVER Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cream.svg" width="32" height="32" />   | cream   | Cream Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />     | crv     | Curve                           |
