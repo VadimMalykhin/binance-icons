@@ -46,6 +46,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" />     | bat     | Basic Attention Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcd.svg" width="32" height="32" />     | bcd     | Bitcoin Diamond                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bch.svg" width="32" height="32" />     | bch     | Bitcoin Cash                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcha.svg" width="32" height="32" />    | bcha    | Bitcoin Cash ABC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" />    | beam    | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" />     | bel     | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beth.svg" width="32" height="32" />    | beth    | BETH                            |
@@ -68,6 +69,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" />     | cdt     | Blox                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celo.svg" width="32" height="32" />    | celo    | Celo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celr.svg" width="32" height="32" />    | celr    | Celer Network                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cfx.svg" width="32" height="32" />     | cfx     | Conflux Network                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" />     | chr     | Chromia                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" />     | chz     | Chiliz                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" />     | ckb     | CKB                             |
