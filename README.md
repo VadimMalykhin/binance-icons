@@ -78,9 +78,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cocos.svg" width="32" height="32" />   | cocos   | Cocos-BCX                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/comp.svg" width="32" height="32" />    | comp    | Compound                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cos.svg" width="32" height="32" />     | cos     | Contentos                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/coti.svg" width="32" height="32" />    | coti    | COTI                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cover.svg" width="32" height="32" />   | cover   | COVER Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cream.svg" width="32" height="32" />   | cream   | Cream Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" />     | crv     | Curve                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctk.svg" width="32" height="32" />     | ctk     | CertiK                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctsi.svg" width="32" height="32" />    | ctsi    | Cartesi                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctxc.svg" width="32" height="32" />    | ctxc    | Cortex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" />     | cvc     | Civic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" />     | dai     | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" />    | dash    | Dash                            |
