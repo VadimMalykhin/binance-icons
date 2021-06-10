@@ -92,6 +92,10 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/data.svg" width="32" height="32" />    | data    | Streamr DATAcoin                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dcr.svg" width="32" height="32" />     | dcr     | Decred                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dego.svg" width="32" height="32" />    | dego    | Dego Finance                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dent.svg" width="32" height="32" />    | dent    | DENT                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dexe.svg" width="32" height="32" />    | dexe    | DeXe                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/df.svg" width="32" height="32" />      | df      | dForce                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dgb.svg" width="32" height="32" />     | dgb     | DigiByte                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dnt.svg" width="32" height="32" />     | dnt     | district0x                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dodo.svg" width="32" height="32" />    | dodo    | DODO                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/doge.svg" width="32" height="32" />    | doge    | Dogecoin                        |
@@ -118,11 +122,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glm.svg" width="32" height="32" />     | glm     | Golem                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grs.svg" width="32" height="32" />     | grs     | Groestlcoin                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grt.svg" width="32" height="32" />     | grt     | The Graph                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gtc.svg" width="32" height="32" />     | gtc     |                                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" />     | gto     | Gifto                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />    | hard    | HARD Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />    | hbar    | Hedera Hashgraph                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnt.svg" width="32" height="32" />     | hnt     | Helium                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icp.svg" width="32" height="32" />     | icp     | Internet Computer               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/inj.svg" width="32" height="32" />     | inj     | Injective Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" />    | iost    | IOST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iota.svg" width="32" height="32" />    | iota    | MIOTA                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/juv.svg" width="32" height="32" />     | juv     | Juventus Fan Token              |
