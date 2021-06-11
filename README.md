@@ -30,6 +30,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arpa.svg" width="32" height="32" />    | arpa    | ARPA Chain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" />     | asr     | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" />     | ast     | AirSwap                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ata.svg" width="32" height="32" />     | ata     | Automata                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atm.svg" width="32" height="32" />     | atm     | Atlético de Madrid Fan Token    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atom.svg" width="32" height="32" />    | atom    | Cosmos                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/auction.svg" width="32" height="32" /> | auction | Auction                         |
@@ -124,14 +125,19 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/for.svg" width="32" height="32" />     | for     | ForTube                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" />   | front   | Frontier                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftm.svg" width="32" height="32" />     | ftm     | Fantom                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftt.svg" width="32" height="32" />     | ftt     | FTX Token                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fun.svg" width="32" height="32" />     | fun     | FunToken                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" />     | fxs     | Frax Share                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" />     | gas     | NeoGas                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" />    | ghst    | Aavegotchi                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glm.svg" width="32" height="32" />     | glm     | Golem                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/go.svg" width="32" height="32" />      | go      | GoChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grs.svg" width="32" height="32" />     | grs     | Groestlcoin                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grt.svg" width="32" height="32" />     | grt     | The Graph                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gtc.svg" width="32" height="32" />     | gtc     | Gitcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" />     | gto     | Gifto                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gvt.svg" width="32" height="32" />     | gvt     | Genesis Vision                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gxs.svg" width="32" height="32" />     | gxs     | GXChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />    | hard    | HARD Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />    | hbar    | Hedera Hashgraph                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnt.svg" width="32" height="32" />     | hnt     | Helium                          |
