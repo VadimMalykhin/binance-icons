@@ -140,6 +140,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gxs.svg" width="32" height="32" />     | gxs     | GXChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" />    | hard    | HARD Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" />    | hbar    | Hedera Hashgraph                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hegic.svg" width="32" height="32" />   | hegic   | Hegic                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hive.svg" width="32" height="32" />    | hive    | Hive                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnt.svg" width="32" height="32" />     | hnt     | Helium                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icp.svg" width="32" height="32" />     | icp     | Internet Computer               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/inj.svg" width="32" height="32" />     | inj     | Injective Protocol              |
