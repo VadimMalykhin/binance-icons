@@ -167,10 +167,14 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loom.svg" width="32" height="32" />    | loom    | Loom Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lpt.svg" width="32" height="32" />     | lpt     | Livepeer                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lrc.svg" width="32" height="32" />     | lrc     | Loopring                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lsk.svg" width="32" height="32" />     | lsk     | Lisk                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" />     | ltc     | Litecoin                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lto.svg" width="32" height="32" />     | lto     | LTO Network                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" />    | luna    | Terra                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" />    | mana    | Decentraland                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" />   | matic   | Polygon                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbl.svg" width="32" height="32" />     | mbl     | MovieBloc                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mda.svg" width="32" height="32" />     | mda     | Moeda Loyalty Points            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mft.svg" width="32" height="32" />     | mft     | Mainframe                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mir.svg" width="32" height="32" />     | mir     | Mirror Protocol                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
