@@ -212,6 +212,12 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perp.svg" width="32" height="32" />    | perp    | Perpetual Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pha.svg" width="32" height="32" />     | pha     | Phala.Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phb.svg" width="32" height="32" />     | phb     | Phoenix Global                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pivx.svg" width="32" height="32" />    | pivx    | PIVX                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pnt.svg" width="32" height="32" />     | pnt     | pNetwork                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poa.svg" width="32" height="32" />     | poa     | POA Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poly.svg" width="32" height="32" />    | poly    | Polymath                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pond.svg" width="32" height="32" />    | pond    | Marlin                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/powr.svg" width="32" height="32" />    | powr    | PowerLedger                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" />    | prom    | Prometeus                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/psg.svg" width="32" height="32" />     | psg     | Paris Saint-Germain Fan Token   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" />     | qsp     | Quantstamp                      |
