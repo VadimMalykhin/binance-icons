@@ -175,8 +175,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" />   | matic   | Polygon                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbl.svg" width="32" height="32" />     | mbl     | MovieBloc                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mda.svg" width="32" height="32" />     | mda     | Moeda Loyalty Points            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdt.svg" width="32" height="32" />     | mdt     | Measurable Data Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mft.svg" width="32" height="32" />     | mft     | Mainframe                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mir.svg" width="32" height="32" />     | mir     | Mirror Protocol                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mith.svg" width="32" height="32" />    | mith    | Mithril                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mkr.svg" width="32" height="32" />     | mkr     | Maker                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mth.svg" width="32" height="32" />     | mth     | Monetha                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtl.svg" width="32" height="32" />     | mtl     | Metal                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" />    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" />     | neo     | NEO                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" />     | nmr     | Numeraire                       |
