@@ -268,13 +268,19 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" />   | sushi   | Sushi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxp.svg" width="32" height="32" />     | sxp     | Swipe                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sys.svg" width="32" height="32" />     | sys     | Syscoin                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tct.svg" width="32" height="32" />     | tct     | TokenClub Token                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tfuel.svg" width="32" height="32" />   | tfuel   | Theta Fuel                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/theta.svg" width="32" height="32" />   | theta   | Theta Token                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tko.svg" width="32" height="32" />     | tko     | Tokocrypto                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tlm.svg" width="32" height="32" />     | tlm     | Alien Worlds                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tomo.svg" width="32" height="32" />    | tomo    | TomoChain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/torn.svg" width="32" height="32" />    | torn    | Tornado Cash                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trb.svg" width="32" height="32" />     | trb     | Tellor Tributes                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/troy.svg" width="32" height="32" />    | troy    | Troy                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tru.svg" width="32" height="32" />     | tru     | TrueFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trx.svg" width="32" height="32" />     | trx     | TRON                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tusd.svg" width="32" height="32" />    | tusd    | TrueUSD                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tvk.svg" width="32" height="32" />     | tvk     | Terra Virtua                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/twt.svg" width="32" height="32" />     | twt     | Trust Wallet Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uft.svg" width="32" height="32" />     | uft     | UniLend                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uma.svg" width="32" height="32" />     | uma     | UMA                             |
