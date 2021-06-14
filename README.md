@@ -223,13 +223,23 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pros.svg" width="32" height="32" />    | pros    | Prosper                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/psg.svg" width="32" height="32" />     | psg     | Paris Saint-Germain Fan Token   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pundix.svg" width="32" height="32" />  | pundix  | Pundi X                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qkc.svg" width="32" height="32" />     | qkc     | QuarkChain                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qlc.svg" width="32" height="32" />     | qlc     | QLC Chain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" />     | qsp     | Quantstamp                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qtum.svg" width="32" height="32" />    | qtum    | Qtum                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ramp.svg" width="32" height="32" />    | ramp    | RAMP                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rcn.svg" width="32" height="32" />     | rcn     | Ripio Credit Network            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rdn.svg" width="32" height="32" />     | rdn     | Raiden Network Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/reef.svg" width="32" height="32" />    | reef    | Reef Finance                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" />     | ren     | Ren                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" />  | renbtc  | renBTC                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" />     | rep     | Augur v2                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/req.svg" width="32" height="32" />     | req     | Request Network                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rif.svg" width="32" height="32" />     | rif     | RSK Infrastructure Framework    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rlc.svg" width="32" height="32" />     | rlc     | iExecRLC                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rose.svg" width="32" height="32" />    | rose    | Oasis Network                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rsr.svg" width="32" height="32" />     | rsr     | Reserve Rights                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rune.svg" width="32" height="32" />    | rune    | THORChain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" />     | rvn     | Ravencoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" />    | sand    | The Sandbox                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" />      | sc      | Siacoin                         |
