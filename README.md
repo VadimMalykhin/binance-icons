@@ -255,10 +255,19 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snx.svg" width="32" height="32" />     | snx     | Synthetix Network Token         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" />     | sol     | Solana                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sparta.svg" width="32" height="32" />  | sparta  | Spartan Protocol                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/srm.svg" width="32" height="32" />     | srm     | Serum                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/steem.svg" width="32" height="32" />   | steem   | Steem                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stmx.svg" width="32" height="32" />    | stmx    | StormX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" />   | storj   | Storj                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stpt.svg" width="32" height="32" />    | stpt    | Standard Tokenization Protocol  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/strax.svg" width="32" height="32" />   | strax   | Stratis                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" />     | stx     | Stacks                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sun.svg" width="32" height="32" />     | sun     | SUN                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/super.svg" width="32" height="32" />   | super   | SuperFarm                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/susd.svg" width="32" height="32" />    | susd    | sUSD                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" />   | sushi   | Sushi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxp.svg" width="32" height="32" />     | sxp     | Swipe                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sys.svg" width="32" height="32" />     | sys     | Syscoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tfuel.svg" width="32" height="32" />   | tfuel   | Theta Fuel                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/theta.svg" width="32" height="32" />   | theta   | Theta Token                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tomo.svg" width="32" height="32" />    | tomo    | TomoChain                       |
