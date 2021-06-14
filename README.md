@@ -246,11 +246,15 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" />    | scrt    | Secret                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" />     | sfp     | SafePal                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/shib.svg" width="32" height="32" />    | shib    | SHIBA INU                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/skl.svg" width="32" height="32" />     | skl     | SKALE Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" />     | sky     | Skycoin                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/slp.svg" width="32" height="32" />     | slp     | Smooth Love Potion              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sngls.svg" width="32" height="32" />   | sngls   | Breaker                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" />     | snm     | SONM                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" />     | snt     | Status                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snx.svg" width="32" height="32" />     | snx     | Synthetix Network Token         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" />     | sol     | Solana                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sparta.svg" width="32" height="32" />  | sparta  | Spartan Protocol                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" />   | storj   | Storj                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" />     | stx     | Stacks                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" />   | sushi   | Sushi                           |
