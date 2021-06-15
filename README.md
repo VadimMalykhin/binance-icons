@@ -290,6 +290,13 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" />    | usdt    | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/utk.svg" width="32" height="32" />     | utk     | Utrust                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" />     | vet     | VeChain                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/via.svg" width="32" height="32" />     | via     | Viacoin                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vib.svg" width="32" height="32" />     | vib     | Viberate                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vidt.svg" width="32" height="32" />    | vidt    | VIDT Datalink                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vite.svg" width="32" height="32" />    | vite    | VITE                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vtho.svg" width="32" height="32" />    | vtho    | VeThor Token                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wabi.svg" width="32" height="32" />    | wabi    | TAEL                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wan.svg" width="32" height="32" />     | wan     | Wanchain                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" />   | waves   | Waves                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" />    | wbtc    | Wrapped Bitcoin                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" />     | win     | WINK                            |
@@ -308,6 +315,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xym.svg" width="32" height="32" />     | xym     | Symbol                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfi.svg" width="32" height="32" />     | yfi     | yearn.finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" />    | yfii    | DFI.Money                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yoyo.svg" width="32" height="32" />    | yoyo    | YOYOW                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zec.svg" width="32" height="32" />     | zec     | Zcash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />     | zen     | Horizen                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zil.svg" width="32" height="32" />     | zil     | Zilliqa                         |
