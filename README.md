@@ -218,6 +218,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pivx.svg" width="32" height="32" />    | pivx    | PIVX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pnt.svg" width="32" height="32" />     | pnt     | pNetwork                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poa.svg" width="32" height="32" />     | poa     | POA Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pols.svg" width="32" height="32" />    | pols    | Polkastarter                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poly.svg" width="32" height="32" />    | poly    | Polymath                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pond.svg" width="32" height="32" />    | pond    | Marlin                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/powr.svg" width="32" height="32" />    | powr    | PowerLedger                     |
