@@ -124,6 +124,7 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fis.svg" width="32" height="32" />     | fis     | Stafi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" />     | flm     | Flamingo                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/for.svg" width="32" height="32" />     | for     | ForTube                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/forth.svg" width="32" height="32" />   | forth   | Ampleforth Governance Token     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" />   | front   | Frontier                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftm.svg" width="32" height="32" />     | ftm     | Fantom                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftt.svg" width="32" height="32" />     | ftt     | FTX Token                       |
