@@ -327,6 +327,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" />     | zen     | Horizen                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zil.svg" width="32" height="32" />     | zil     | Zilliqa                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zrx.svg" width="32" height="32" />     | zrx     | 0x                              |
+
+[Crypto Manifest File](https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/metadata/crypto.json)
 </details>
 
 <details>
@@ -335,6 +337,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 ...
+
+[Currency Manifest File](https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/metadata/currency.json)
 </details>
 
 <details>
@@ -349,6 +353,8 @@ The Crypto/currency & Stock icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/mstr.svg" width="32" height="32" /> | mstr | MicroStrategy Incorporated |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/nflx.svg" width="32" height="32" /> | nflx | Netflix Inc                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/stock/tsla.svg" width="32" height="32" /> | tsla | Tesla Inc.                 |
+
+[Stock Manifest File](https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/metadata/stock.json)
 </details>
 
 ## Figma
