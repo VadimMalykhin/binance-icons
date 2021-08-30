@@ -338,7 +338,14 @@ The Crypto/currency icons listed on Binance exchange.
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
-
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchdown.svg" width="32" height="32" alt=""/> | 1inchdown | 1INCHDOWN |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchup.svg" width="32" height="32" alt=""/>   | 1inchup   | 1INCHUP   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aavedown.svg" width="32" height="32" alt=""/>  | aavedown  | AAVEDOWN  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aaveup.svg" width="32" height="32" alt=""/>    | aaveup    | AAVEUP    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adadown.svg" width="32" height="32" alt=""/>   | adadown   | ADADOWN   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adaup.svg" width="32" height="32" alt=""/>     | adaup     | ADAUP     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkdown.svg" width="32" height="32" alt=""/>  | linkdown  | LINKDOWN  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkup.svg" width="32" height="32" alt=""/>    | linkup    | LINKUP    |
 </details>
 
 <details>
