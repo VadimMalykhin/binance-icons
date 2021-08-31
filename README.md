@@ -288,6 +288,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tomo.svg" width="32" height="32" alt=""/>    | tomo    | TomoChain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/torn.svg" width="32" height="32" alt=""/>    | torn    | Tornado Cash                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trb.svg" width="32" height="32" alt=""/>     | trb     | Tellor Tributes                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tribe.svg" width="32" height="32" alt=""/>   | tribe   | Tribe                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/troy.svg" width="32" height="32" alt=""/>    | troy    | Troy                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tru.svg" width="32" height="32" alt=""/>     | tru     | TrueFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trx.svg" width="32" height="32" alt=""/>     | trx     | TRON                            |
@@ -320,6 +321,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>     | xem     | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" alt=""/>     | xlm     | Stellar Lumens                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" alt=""/>     | xmr     | Monero                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xpr.svg" width="32" height="32" alt=""/>     | xpr     | Proton                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" alt=""/>     | xrp     | Ripple                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" alt=""/>     | xtz     | Tezos                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xvg.svg" width="32" height="32" alt=""/>     | xvg     | Verge                           |
