@@ -323,6 +323,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" alt=""/>     | wpr     | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>     | wrx     | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" alt=""/>     | wtc     | Walton                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xec.svg" width="32" height="32" alt=""/>     | xec     | eCash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>     | xem     | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" alt=""/>     | xlm     | Stellar Lumens                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" alt=""/>     | xmr     | Monero                          |
