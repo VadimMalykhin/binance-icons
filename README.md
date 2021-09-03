@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto *334*</summary>
+  <summary>Crypto *335*</summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -108,6 +108,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dock.svg" width="32" height="32" alt=""/>    | dock    | DOCK                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dodo.svg" width="32" height="32" alt=""/>    | dodo    | DODO                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/doge.svg" width="32" height="32" alt=""/>    | doge    | Dogecoin                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/don.svg" width="32" height="32" alt=""/>     | don     | Donnie Finance                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" alt=""/>     | dot     | Polkadot                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/drep.svg" width="32" height="32" alt=""/>    | drep    | DREP                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" alt=""/>    | dusk    | Dusk Network                    |
