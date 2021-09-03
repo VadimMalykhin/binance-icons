@@ -126,6 +126,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" alt=""/>    | firo    | Firo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fis.svg" width="32" height="32" alt=""/>     | fis     | Stafi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" alt=""/>     | flm     | Flamingo                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flow.svg" width="32" height="32" alt=""/>    | flow    | Flow                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/for.svg" width="32" height="32" alt=""/>     | for     | ForTube                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/forth.svg" width="32" height="32" alt=""/>   | forth   | Ampleforth Governance Token     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" alt=""/>   | front   | Frontier                        |
@@ -199,10 +200,12 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" alt=""/>    | near    | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nebl.svg" width="32" height="32" alt=""/>    | nebl    | Neblio                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" alt=""/>     | neo     | NEO                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nft.svg" width="32" height="32" alt=""/>     | nft     | APENFT                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nkn.svg" width="32" height="32" alt=""/>     | nkn     | NKN                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" alt=""/>     | nmr     | Numeraire                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nu.svg" width="32" height="32" alt=""/>      | nu      | NuCypher                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nuls.svg" width="32" height="32" alt=""/>    | nuls    | Nuls                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nvt.svg" width="32" height="32" alt=""/>     | nvt     | NerveNetwork                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nxs.svg" width="32" height="32" alt=""/>     | nxs     | Nexus                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oax.svg" width="32" height="32" alt=""/>     | oax     | openANX                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ocean.svg" width="32" height="32" alt=""/>   | ocean   | Ocean Protocol                  |
@@ -252,6 +255,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rsr.svg" width="32" height="32" alt=""/>     | rsr     | Reserve Rights                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rune.svg" width="32" height="32" alt=""/>    | rune    | THORChain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" alt=""/>     | rvn     | Ravencoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/salt.svg" width="32" height="32" alt=""/>    | salt    | Salt                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" alt=""/>    | sand    | The Sandbox                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" alt=""/>      | sc      | Siacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" alt=""/>    | scrt    | Secret                          |
@@ -303,6 +307,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" alt=""/>    | usdt    | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/utk.svg" width="32" height="32" alt=""/>     | utk     | Utrust                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" alt=""/>     | vet     | VeChain                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vgx.svg" width="32" height="32" alt=""/>     | vgx     | Voyager Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/via.svg" width="32" height="32" alt=""/>     | via     | Viacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vib.svg" width="32" height="32" alt=""/>     | vib     | Viberate                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vidt.svg" width="32" height="32" alt=""/>    | vidt    | VIDT Datalink                   |
