@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto *335*</summary>
+  <summary>Crypto <strong>333</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -15,7 +15,6 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/acm.svg" width="32" height="32" alt=""/>     | acm     | AC Milan Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" alt=""/>     | ada     | Cardano                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adx.svg" width="32" height="32" alt=""/>     | adx     | AdEx                            |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ae.svg" width="32" height="32" alt=""/>      | ae      | Aeternity                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aergo.svg" width="32" height="32" alt=""/>   | aergo   | Aergo                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/agix.svg" width="32" height="32" alt=""/>    | agix    | SingularityNET Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aion.svg" width="32" height="32" alt=""/>    | aion    | AION                            |
@@ -50,6 +49,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bat.svg" width="32" height="32" alt=""/>     | bat     | Basic Attention Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcd.svg" width="32" height="32" alt=""/>     | bcd     | Bitcoin Diamond                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bch.svg" width="32" height="32" alt=""/>     | bch     | Bitcoin Cash                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcha.svg" width="32" height="32" alt=""/>    | bcha    | Bitcoin Cash ABC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" alt=""/>    | beam    | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" alt=""/>     | bel     | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beth.svg" width="32" height="32" alt=""/>    | beth    | BETH                            |
@@ -60,7 +60,6 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" alt=""/>     | bnt     | Bancor                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bond.svg" width="32" height="32" alt=""/>    | bond    | BarnBridge                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" alt=""/>     | bot     | Bounce Token                    |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bqx.svg" width="32" height="32" alt=""/>     | bqx     | Voyager Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/brd.svg" width="32" height="32" alt=""/>     | brd     | Bread                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" alt=""/>     | btc     | Bitcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcst.svg" width="32" height="32" alt=""/>   | btcst   | Bitcoin Standard Hashrate Token |
@@ -79,7 +78,6 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" alt=""/>     | chr     | Chromia                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" alt=""/>     | chz     | Chiliz                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" alt=""/>     | ckb     | CKB                             |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cloak.svg" width="32" height="32" alt=""/>   | cloak   | CloakCoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cnd.svg" width="32" height="32" alt=""/>     | cnd     | Cindicator                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cocos.svg" width="32" height="32" alt=""/>   | cocos   | Cocos-BCX                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/comp.svg" width="32" height="32" alt=""/>    | comp    | Compound                        |
@@ -148,7 +146,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" alt=""/>     | gto     | Gifto                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gvt.svg" width="32" height="32" alt=""/>     | gvt     | Genesis Vision                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gxs.svg" width="32" height="32" alt=""/>     | gxs     | GXChain                         |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" alt=""/>    | hard    | HARD Protocol                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" alt=""/>    | hard    | Kava Lend                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" alt=""/>    | hbar    | Hedera Hashgraph                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hegic.svg" width="32" height="32" alt=""/>   | hegic   | Hegic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hive.svg" width="32" height="32" alt=""/>    | hive    | Hive                            |
@@ -348,7 +346,7 @@ The Crypto/currency icons listed on Binance exchange.
 </details>
 
 <details>
-  <summary>ETF *40*</summary>
+  <summary>ETF <strong>42</strong></summary>
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -362,6 +360,8 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchup.svg" width="32" height="32" alt=""/>     | bchup     | BCHUP     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbdown.svg" width="32" height="32" alt=""/>   | bnbdown   | BNBDOWN   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbup.svg" width="32" height="32" alt=""/>     | bnbup     | BNBUP     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcdown.svg" width="32" height="32" alt=""/>   | btcdown   | BTCDOWN   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcup.svg" width="32" height="32" alt=""/>     | btcup     | BTCUP     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotdown.svg" width="32" height="32" alt=""/>   | dotdown   | DOTDOWN   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotup.svg" width="32" height="32" alt=""/>     | dotup     | DOTUP     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosdown.svg" width="32" height="32" alt=""/>   | eosdown   | EOSDOWN   |
@@ -395,7 +395,7 @@ The Crypto/currency icons listed on Binance exchange.
 </details>
 
 <details>
-  <summary>Currency *7*</summary>
+  <summary>Currency <strong>7</strong></summary>
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
