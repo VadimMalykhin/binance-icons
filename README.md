@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>335</strong></summary>
+  <summary>Crypto <strong>338</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -23,10 +23,12 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/akro.svg" width="32" height="32" alt=""/>    | akro    | Akropolis                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/algo.svg" width="32" height="32" alt=""/>    | algo    | Algorand                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alice.svg" width="32" height="32" alt=""/>   | alice   | My Neighbor Alice               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpaca.svg" width="32" height="32" alt=""/>  | alpaca  | Alpaca Finance                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpha.svg" width="32" height="32" alt=""/>   | alpha   | Alpha Finance Lab               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/amb.svg" width="32" height="32" alt=""/>     | amb     | Ambrosus                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ankr.svg" width="32" height="32" alt=""/>    | ankr    | Ankr                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ant.svg" width="32" height="32" alt=""/>     | ant     | Aragon                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/antold.svg" width="32" height="32" alt=""/>  | antold  | Old Aragon                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" alt=""/>    | appc    | AppCoins                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ar.svg" width="32" height="32" alt=""/>      | ar      | Arweave                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" alt=""/>    | ardr    | Ardor                           |
@@ -43,6 +45,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ava.svg" width="32" height="32" alt=""/>     | ava     | Travala.com                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/avax.svg" width="32" height="32" alt=""/>    | avax    | Avalanche                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/axs.svg" width="32" height="32" alt=""/>     | axs     | Axie Infinity                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/axsold.svg" width="32" height="32" alt=""/>  | axsold  | Axie Infinity Old               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/badger.svg" width="32" height="32" alt=""/>  | badger  | Badger DAO                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bake.svg" width="32" height="32" alt=""/>    | bake    | BakeryToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bal.svg" width="32" height="32" alt=""/>     | bal     | Balancer                        |
