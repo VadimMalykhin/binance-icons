@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>334</strong></summary>
+  <summary>Crypto <strong>335</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -16,6 +16,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" alt=""/>     | ada     | Cardano                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/add.svg" width="32" height="32" alt=""/>     | add     | ADD                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adx.svg" width="32" height="32" alt=""/>     | adx     | AdEx                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adxold.svg" width="32" height="32" alt=""/>  | adxold  | AdEx Old Token                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aergo.svg" width="32" height="32" alt=""/>   | aergo   | Aergo                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/agix.svg" width="32" height="32" alt=""/>    | agix    | SingularityNET Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aion.svg" width="32" height="32" alt=""/>    | aion    | AION                            |
