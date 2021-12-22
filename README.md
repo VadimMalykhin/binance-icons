@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>354</strong></summary>
+  <summary>Crypto <strong>355</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -59,6 +59,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bch.svg" width="32" height="32" alt=""/>      | bch      | Bitcoin Cash                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcha.svg" width="32" height="32" alt=""/>     | bcha     | Bitcoin Cash ABC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchsv.svg" width="32" height="32" alt=""/>    | bchsv    | Bitcoin Cash SV                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcx.svg" width="32" height="32" alt=""/>      | bcx      | BitcoinX                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" alt=""/>     | beam     | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" alt=""/>      | bel      | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beta.svg" width="32" height="32" alt=""/>     | beta     | Beta Finance                    |
