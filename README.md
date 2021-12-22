@@ -6,12 +6,13 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>356</strong></summary>
+  <summary>Crypto <strong>359</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>    | 1inch    | 1inch                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aave.svg" width="32" height="32" alt=""/>     | aave     | Aave                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aca.svg" width="32" height="32" alt=""/>      | aca      | Acala Token                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/acm.svg" width="32" height="32" alt=""/>      | acm      | AC Milan Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" alt=""/>      | ada      | Cardano                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/add.svg" width="32" height="32" alt=""/>      | add      | ADD                             |
@@ -23,6 +24,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/agld.svg" width="32" height="32" alt=""/>     | agld     | Adventure Gold                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aion.svg" width="32" height="32" alt=""/>     | aion     | AION                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/akro.svg" width="32" height="32" alt=""/>     | akro     | Akropolis                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alcx.svg" width="32" height="32" alt=""/>     | alcx     | Alchemix                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/algo.svg" width="32" height="32" alt=""/>     | algo     | Algorand                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alice.svg" width="32" height="32" alt=""/>    | alice    | My Neighbor Alice               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpaca.svg" width="32" height="32" alt=""/>   | alpaca   | Alpaca Finance                  |
@@ -348,6 +350,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wnxm.svg" width="32" height="32" alt=""/>     | wnxm     | Wrapped NXM                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" alt=""/>      | wpr      | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>      | wrx      | WazirX                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wsol.svg" width="32" height="32" alt=""/>     | wsol     | Wrapped SOL                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" alt=""/>      | wtc      | Walton                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xec.svg" width="32" height="32" alt=""/>      | xec      | eCash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>      | xem      | NEM                             |
