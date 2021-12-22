@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>343</strong></summary>
+  <summary>Crypto <strong>348</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -120,6 +120,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" alt=""/>     | dot     | Polkadot                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/drep.svg" width="32" height="32" alt=""/>    | drep    | DREP                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" alt=""/>    | dusk    | Dusk Network                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dydx.svg" width="32" height="32" alt=""/>    | dydx    | dYdX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" alt=""/>    | easy    | EasyFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/egld.svg" width="32" height="32" alt=""/>    | egld    | Elrond eGold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/elf.svg" width="32" height="32" alt=""/>     | elf     | aelf                            |
@@ -144,6 +145,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" alt=""/>   | front   | Frontier                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftm.svg" width="32" height="32" alt=""/>     | ftm     | Fantom                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ftt.svg" width="32" height="32" alt=""/>     | ftt     | FTX Token                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fuel.svg" width="32" height="32" alt=""/>    | fuel    | Etherparty                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fun.svg" width="32" height="32" alt=""/>     | fun     | FunToken                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" alt=""/>     | fxs     | Frax Share                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" alt=""/>     | gas     | NeoGas                          |
@@ -195,6 +197,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mask.svg" width="32" height="32" alt=""/>    | mask    | Mask Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" alt=""/>   | matic   | Polygon                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbl.svg" width="32" height="32" alt=""/>     | mbl     | MovieBloc                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbox.svg" width="32" height="32" alt=""/>    | mbox    | MOBOX                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mda.svg" width="32" height="32" alt=""/>     | mda     | Moeda Loyalty Points            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdt.svg" width="32" height="32" alt=""/>     | mdt     | Measurable Data Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdx.svg" width="32" height="32" alt=""/>     | mdx     | Mdex                            |
@@ -255,6 +258,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" alt=""/>     | qsp     | Quantstamp                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qtum.svg" width="32" height="32" alt=""/>    | qtum    | Qtum                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ramp.svg" width="32" height="32" alt=""/>    | ramp    | RAMP                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ray.svg" width="32" height="32" alt=""/>     | ray     | Raydium                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rcn.svg" width="32" height="32" alt=""/>     | rcn     | Ripio Credit Network            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rdn.svg" width="32" height="32" alt=""/>     | rdn     | Raiden Network Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/reef.svg" width="32" height="32" alt=""/>    | reef    | Reef Finance                    |
@@ -317,6 +321,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unfi.svg" width="32" height="32" alt=""/>    | unfi    | Unifi Protocol DAO              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" alt=""/>     | uni     | Uniswap                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" alt=""/>    | usdc    | USD Coin                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdp.svg" width="32" height="32" alt=""/>    | usdp    | Pax Dollar                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" alt=""/>    | usdt    | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/utk.svg" width="32" height="32" alt=""/>     | utk     | Utrust                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" alt=""/>     | vet     | VeChain                         |
