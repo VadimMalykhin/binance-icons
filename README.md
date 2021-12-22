@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>355</strong></summary>
+  <summary>Crypto <strong>356</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -15,7 +15,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/acm.svg" width="32" height="32" alt=""/>      | acm      | AC Milan Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" alt=""/>      | ada      | Cardano                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/add.svg" width="32" height="32" alt=""/>      | add      | ADD                             |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adx.svg" width="32" height="32" alt=""/>      | adx      | AdEx                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adx.svg" width="32" height="32" alt=""/>      | adx      | Ambire AdEx                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adxold.svg" width="32" height="32" alt=""/>   | adxold   | AdEx Old Token                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aergo.svg" width="32" height="32" alt=""/>    | aergo    | Aergo                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/agi.svg" width="32" height="32" alt=""/>      | agi      | SingularityNET                  |
@@ -73,6 +73,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" alt=""/>      | bnt      | Bancor                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bond.svg" width="32" height="32" alt=""/>     | bond     | BarnBridge                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" alt=""/>      | bot      | Bounce Token                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bqx.svg" width="32" height="32" alt=""/>      | bqx      | Old Voyager Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/brd.svg" width="32" height="32" alt=""/>      | brd      | Bread                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" alt=""/>      | btc      | Bitcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcst.svg" width="32" height="32" alt=""/>    | btcst    | Bitcoin Standard Hashrate Token |
@@ -368,52 +369,61 @@ The Crypto/currency icons listed on Binance exchange.
 </details>
 
 <details>
-  <summary>ETF <strong>42</strong></summary>
+  <summary>ETF <strong>51</strong></summary>
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchdown.svg" width="32" height="32" alt=""/> | 1inchdown | 1INCHDOWN |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchup.svg" width="32" height="32" alt=""/>   | 1inchup   | 1INCHUP   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aavedown.svg" width="32" height="32" alt=""/>  | aavedown  | AAVEDOWN  |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aaveup.svg" width="32" height="32" alt=""/>    | aaveup    | AAVEUP    |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adadown.svg" width="32" height="32" alt=""/>   | adadown   | ADADOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adaup.svg" width="32" height="32" alt=""/>     | adaup     | ADAUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchdown.svg" width="32" height="32" alt=""/>   | bchdown   | BCHDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchup.svg" width="32" height="32" alt=""/>     | bchup     | BCHUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbdown.svg" width="32" height="32" alt=""/>   | bnbdown   | BNBDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbup.svg" width="32" height="32" alt=""/>     | bnbup     | BNBUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcdown.svg" width="32" height="32" alt=""/>   | btcdown   | BTCDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcup.svg" width="32" height="32" alt=""/>     | btcup     | BTCUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotdown.svg" width="32" height="32" alt=""/>   | dotdown   | DOTDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotup.svg" width="32" height="32" alt=""/>     | dotup     | DOTUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosdown.svg" width="32" height="32" alt=""/>   | eosdown   | EOSDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosup.svg" width="32" height="32" alt=""/>     | eosup     | EOSUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethdown.svg" width="32" height="32" alt=""/>   | ethdown   | ETHDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethup.svg" width="32" height="32" alt=""/>     | ethup     | ETHUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fildown.svg" width="32" height="32" alt=""/>   | fildown   | FILDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/filup.svg" width="32" height="32" alt=""/>     | filup     | FILUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grtdown.svg" width="32" height="32" alt=""/>   | grtdown   | GRTDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grtup.svg" width="32" height="32" alt=""/>     | grtup     | GRTUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkdown.svg" width="32" height="32" alt=""/>  | linkdown  | LINKDOWN  |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkup.svg" width="32" height="32" alt=""/>    | linkup    | LINKUP    |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltcdown.svg" width="32" height="32" alt=""/>   | ltcdown   | LTCDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltcup.svg" width="32" height="32" alt=""/>     | ltcup     | LTCUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushidown.svg" width="32" height="32" alt=""/> | sushidown | SUSHIDOWN |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushiup.svg" width="32" height="32" alt=""/>   | sushiup   | SUSHIUP   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxpdown.svg" width="32" height="32" alt=""/>   | sxpdown   | SXPDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxpup.svg" width="32" height="32" alt=""/>     | sxpup     | SXPUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trxdown.svg" width="32" height="32" alt=""/>   | trxdown   | TRXDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trxup.svg" width="32" height="32" alt=""/>     | trxup     | TRXUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unidown.svg" width="32" height="32" alt=""/>   | unidown   | UNIDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uniup.svg" width="32" height="32" alt=""/>     | uniup     | UNIUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlmdown.svg" width="32" height="32" alt=""/>   | xlmdown   | XLMDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlmup.svg" width="32" height="32" alt=""/>     | xlmup     | XLMUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpdown.svg" width="32" height="32" alt=""/>   | xrpdown   | XRPDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpup.svg" width="32" height="32" alt=""/>     | xrpup     | XRPUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtzdown.svg" width="32" height="32" alt=""/>   | xtzdown   | XTZDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtzup.svg" width="32" height="32" alt=""/>     | xtzup     | XTZUP     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfidown.svg" width="32" height="32" alt=""/>   | yfidown   | YFIDOWN   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfiup.svg" width="32" height="32" alt=""/>     | yfiup     | YFIUP     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchdown.svg" width="32" height="32" alt=""/> | 1inchdown | 1INCHDOWN               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inchup.svg" width="32" height="32" alt=""/>   | 1inchup   | 1INCHUP                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aavedown.svg" width="32" height="32" alt=""/>  | aavedown  | AAVEDOWN                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aaveup.svg" width="32" height="32" alt=""/>    | aaveup    | AAVEUP                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adadown.svg" width="32" height="32" alt=""/>   | adadown   | ADADOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/adaup.svg" width="32" height="32" alt=""/>     | adaup     | ADAUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchdown.svg" width="32" height="32" alt=""/>   | bchdown   | BCHDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchup.svg" width="32" height="32" alt=""/>     | bchup     | BCHUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bear.svg" width="32" height="32" alt=""/>      | bear      | 3X Short Bitcoin Token  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbbear.svg" width="32" height="32" alt=""/>   | bnbbear   | 3X Short BNB Token      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbbull.svg" width="32" height="32" alt=""/>   | bnbbull   | 3X Long BNB Token       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbdown.svg" width="32" height="32" alt=""/>   | bnbdown   | BNBDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnbup.svg" width="32" height="32" alt=""/>     | bnbup     | BNBUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcdown.svg" width="32" height="32" alt=""/>   | btcdown   | BTCDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcup.svg" width="32" height="32" alt=""/>     | btcup     | BTCUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bull.svg" width="32" height="32" alt=""/>      | bull      | 3X Long Bitcoin Token   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotdown.svg" width="32" height="32" alt=""/>   | dotdown   | DOTDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dotup.svg" width="32" height="32" alt=""/>     | dotup     | DOTUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosbear.svg" width="32" height="32" alt=""/>   | eosbear   | 3X Short EOS Token      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosbull.svg" width="32" height="32" alt=""/>   | eosbull   | 3X Long EOS Token       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosdown.svg" width="32" height="32" alt=""/>   | eosdown   | EOSDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eosup.svg" width="32" height="32" alt=""/>     | eosup     | EOSUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethbear.svg" width="32" height="32" alt=""/>   | ethbear   | 3X Short Ethereum Token |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethdown.svg" width="32" height="32" alt=""/>   | ethdown   | ETHDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethup.svg" width="32" height="32" alt=""/>     | ethup     | ETHUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fildown.svg" width="32" height="32" alt=""/>   | fildown   | FILDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/filup.svg" width="32" height="32" alt=""/>     | filup     | FILUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grtdown.svg" width="32" height="32" alt=""/>   | grtdown   | GRTDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grtup.svg" width="32" height="32" alt=""/>     | grtup     | GRTUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkdown.svg" width="32" height="32" alt=""/>  | linkdown  | LINKDOWN                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/linkup.svg" width="32" height="32" alt=""/>    | linkup    | LINKUP                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltcdown.svg" width="32" height="32" alt=""/>   | ltcdown   | LTCDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltcup.svg" width="32" height="32" alt=""/>     | ltcup     | LTCUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushidown.svg" width="32" height="32" alt=""/> | sushidown | SUSHIDOWN               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushiup.svg" width="32" height="32" alt=""/>   | sushiup   | SUSHIUP                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxpdown.svg" width="32" height="32" alt=""/>   | sxpdown   | SXPDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sxpup.svg" width="32" height="32" alt=""/>     | sxpup     | SXPUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trxdown.svg" width="32" height="32" alt=""/>   | trxdown   | TRXDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trxup.svg" width="32" height="32" alt=""/>     | trxup     | TRXUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unidown.svg" width="32" height="32" alt=""/>   | unidown   | UNIDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uniup.svg" width="32" height="32" alt=""/>     | uniup     | UNIUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlmdown.svg" width="32" height="32" alt=""/>   | xlmdown   | XLMDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlmup.svg" width="32" height="32" alt=""/>     | xlmup     | XLMUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpbear.svg" width="32" height="32" alt=""/>   | xrpbear   | 3X Short XRP Token      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpbull.svg" width="32" height="32" alt=""/>   | xrpbull   | 3X Long XRP Token       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpdown.svg" width="32" height="32" alt=""/>   | xrpdown   | XRPDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrpup.svg" width="32" height="32" alt=""/>     | xrpup     | XRPUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtzdown.svg" width="32" height="32" alt=""/>   | xtzdown   | XTZDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtzup.svg" width="32" height="32" alt=""/>     | xtzup     | XTZUP                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfidown.svg" width="32" height="32" alt=""/>   | yfidown   | YFIDOWN                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfiup.svg" width="32" height="32" alt=""/>     | yfiup     | YFIUP                   |
 </details>
 
 <details>
