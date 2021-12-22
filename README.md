@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>352</strong></summary>
+  <summary>Crypto <strong>354</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -35,6 +35,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ar.svg" width="32" height="32" alt=""/>       | ar       | Arweave                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" alt=""/>     | ardr     | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" alt=""/>      | ark      | Ark                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arn.svg" width="32" height="32" alt=""/>      | arn      | Aeron                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arpa.svg" width="32" height="32" alt=""/>     | arpa     | ARPA Chain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" alt=""/>      | asr      | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" alt=""/>      | ast      | AirSwap                         |
@@ -196,6 +197,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lsk.svg" width="32" height="32" alt=""/>      | lsk      | Lisk                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" alt=""/>      | ltc      | Litecoin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lto.svg" width="32" height="32" alt=""/>      | lto      | LTO Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lun.svg" width="32" height="32" alt=""/>      | lun      | Lunyr                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" alt=""/>     | luna     | Terra                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" alt=""/>     | mana     | Decentraland                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mask.svg" width="32" height="32" alt=""/>     | mask     | Mask Network                    |
