@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>363</strong></summary>
+  <summary>Crypto <strong>367</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -73,10 +73,14 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bico.svg" width="32" height="32" alt=""/>     | bico     | Biconomy                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bidr.svg" width="32" height="32" alt=""/>     | bidr     | BIDR                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bifi.svg" width="32" height="32" alt=""/>     | bifi     | Beefy.Finance                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bkrw.svg" width="32" height="32" alt=""/>     | bkrw     | Binance KRW                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/blink.svg" width="32" height="32" alt=""/>    | blink    | Blockmason Link                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/blz.svg" width="32" height="32" alt=""/>      | blz      | Bluzelle                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnb.svg" width="32" height="32" alt=""/>      | bnb      | BNB                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnc.svg" width="32" height="32" alt=""/>      | bnc      | Bifrost                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" alt=""/>      | bnt      | Bancor                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnx.svg" width="32" height="32" alt=""/>      | bnx      | BinaryX                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/boba.svg" width="32" height="32" alt=""/>     | boba     | BOBA token                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bond.svg" width="32" height="32" alt=""/>     | bond     | BarnBridge                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" alt=""/>      | bot      | Bounce Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bqx.svg" width="32" height="32" alt=""/>      | bqx      | Old Voyager Token               |
