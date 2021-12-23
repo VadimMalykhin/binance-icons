@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>367</strong></summary>
+  <summary>Crypto <strong>372</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -95,6 +95,8 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bzrx.svg" width="32" height="32" alt=""/>     | bzrx     | bZx Protocol                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/c98.svg" width="32" height="32" alt=""/>      | c98      | Coin98                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" alt=""/>     | cake     | PancakeSwap                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/can.svg" width="32" height="32" alt=""/>      | can      | CanYaCoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cbm.svg" width="32" height="32" alt=""/>      | cbm      | Crypto Bonus Miles Token        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" alt=""/>      | cdt      | Blox                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celo.svg" width="32" height="32" alt=""/>     | celo     | Celo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celr.svg" width="32" height="32" alt=""/>     | celr     | Celer Network                   |
@@ -136,9 +138,11 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/don.svg" width="32" height="32" alt=""/>      | don      | Donnie Finance                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dot.svg" width="32" height="32" alt=""/>      | dot      | Polkadot                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/drep.svg" width="32" height="32" alt=""/>     | drep     | DREP                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/drepold.svg" width="32" height="32" alt=""/>  | drepold  | Old DREP                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" alt=""/>     | dusk     | Dusk Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dydx.svg" width="32" height="32" alt=""/>     | dydx     | dYdX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" alt=""/>     | easy     | EasyFi                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/efi.svg" width="32" height="32" alt=""/>      | efi      | Efinity Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/egld.svg" width="32" height="32" alt=""/>     | egld     | Elrond eGold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/elf.svg" width="32" height="32" alt=""/>      | elf      | aelf                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" alt=""/>      | enj      | Enjin Coin                      |
@@ -283,6 +287,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" alt=""/>      | ren      | Ren                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" alt=""/>   | renbtc   | renBTC                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" alt=""/>      | rep      | Augur v2                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/repv1.svg" width="32" height="32" alt=""/>    | repv1    | Augur                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/req.svg" width="32" height="32" alt=""/>      | req      | Request Network                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rif.svg" width="32" height="32" alt=""/>      | rif      | RSK Infrastructure Framework    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rlc.svg" width="32" height="32" alt=""/>      | rlc      | iExecRLC                        |
