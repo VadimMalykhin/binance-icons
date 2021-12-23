@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>394</strong></summary>
+  <summary>Crypto <strong>404</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -173,6 +173,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fis.svg" width="32" height="32" alt=""/>       | fis       | Stafi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flm.svg" width="32" height="32" alt=""/>       | flm       | Flamingo                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flow.svg" width="32" height="32" alt=""/>      | flow      | Flow                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/flux.svg" width="32" height="32" alt=""/>      | flux      | Flux                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/for.svg" width="32" height="32" alt=""/>       | for       | ForTube                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/forth.svg" width="32" height="32" alt=""/>     | forth     | Ampleforth Governance Token     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/front.svg" width="32" height="32" alt=""/>     | front     | Frontier                        |
@@ -194,26 +195,35 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gto.svg" width="32" height="32" alt=""/>       | gto       | Gifto                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gvt.svg" width="32" height="32" alt=""/>       | gvt       | Genesis Vision                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gxs.svg" width="32" height="32" alt=""/>       | gxs       | GXChain                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gyen.svg" width="32" height="32" alt=""/>      | gyen      | GYEN                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" alt=""/>      | hard      | Kava Lend                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" alt=""/>      | hbar      | Hedera Hashgraph                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hc.svg" width="32" height="32" alt=""/>        | hc        | HyperCash                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hegic.svg" width="32" height="32" alt=""/>     | hegic     | Hegic                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/high.svg" width="32" height="32" alt=""/>      | high      | Highstreet                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hive.svg" width="32" height="32" alt=""/>      | hive      | Hive                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnst.svg" width="32" height="32" alt=""/>      | hnst      | Honest                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnt.svg" width="32" height="32" alt=""/>       | hnt       | Helium                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hot.svg" width="32" height="32" alt=""/>       | hot       | Holo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icp.svg" width="32" height="32" alt=""/>       | icp       | Internet Computer               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icx.svg" width="32" height="32" alt=""/>       | icx       | ICON                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/idex.svg" width="32" height="32" alt=""/>      | idex      | IDEX                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ilv.svg" width="32" height="32" alt=""/>       | ilv       | Illuvium                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/inj.svg" width="32" height="32" alt=""/>       | inj       | Injective Protocol              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ins.svg" width="32" height="32" alt=""/>       | ins       | Insolar                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" alt=""/>      | iost      | IOST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iota.svg" width="32" height="32" alt=""/>      | iota      | MIOTA                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iotx.svg" width="32" height="32" alt=""/>      | iotx      | IoTeX                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iq.svg" width="32" height="32" alt=""/>        | iq        | Everipedia                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iris.svg" width="32" height="32" alt=""/>      | iris      | IRISnet                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jasmy.svg" width="32" height="32" alt=""/>     | jasmy     | JasmyCoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jex.svg" width="32" height="32" alt=""/>       | jex       | Jex Token                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jst.svg" width="32" height="32" alt=""/>       | jst       | JUST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/juv.svg" width="32" height="32" alt=""/>       | juv       | Juventus Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kava.svg" width="32" height="32" alt=""/>      | kava      | Kava                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/keep.svg" width="32" height="32" alt=""/>      | keep      | Keep Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/key.svg" width="32" height="32" alt=""/>       | key       | Selfkey                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/keyfi.svg" width="32" height="32" alt=""/>     | keyfi     | KeyFi                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/klay.svg" width="32" height="32" alt=""/>      | klay      | Klaytn                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kmd.svg" width="32" height="32" alt=""/>       | kmd       | Komodo                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/knc.svg" width="32" height="32" alt=""/>       | knc       | KyberNetwork                    |
