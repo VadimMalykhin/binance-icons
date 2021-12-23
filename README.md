@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>376</strong></summary>
+  <summary>Crypto <strong>380</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -123,6 +123,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" alt=""/>      | cvc      | Civic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvp.svg" width="32" height="32" alt=""/>      | cvp      | PowerPool                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" alt=""/>      | dai      | Dai                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dar.svg" width="32" height="32" alt=""/>      | dar      | Mines of Dalarnia               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" alt=""/>     | dash     | Dash                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/data.svg" width="32" height="32" alt=""/>     | data     | Streamr DATAcoin                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dcr.svg" width="32" height="32" alt=""/>      | dcr      | Decred                          |
@@ -144,9 +145,11 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dusk.svg" width="32" height="32" alt=""/>     | dusk     | Dusk Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dydx.svg" width="32" height="32" alt=""/>     | dydx     | dYdX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/easy.svg" width="32" height="32" alt=""/>     | easy     | EasyFi                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/edo.svg" width="32" height="32" alt=""/>      | edo      | Eidoo                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/efi.svg" width="32" height="32" alt=""/>      | efi      | Efinity Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/egld.svg" width="32" height="32" alt=""/>     | egld     | Elrond eGold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/elf.svg" width="32" height="32" alt=""/>      | elf      | aelf                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eng.svg" width="32" height="32" alt=""/>      | eng      | Enigma                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" alt=""/>      | enj      | Enjin Coin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" alt=""/>      | eos      | EOS                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eps.svg" width="32" height="32" alt=""/>      | eps      | Ellipsis                        |
@@ -273,6 +276,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pols.svg" width="32" height="32" alt=""/>     | pols     | Polkastarter                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poly.svg" width="32" height="32" alt=""/>     | poly     | Polymath                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pond.svg" width="32" height="32" alt=""/>     | pond     | Marlin                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/porto.svg" width="32" height="32" alt=""/>    | porto    | FC Porto Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/powr.svg" width="32" height="32" alt=""/>     | powr     | PowerLedger                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ppt.svg" width="32" height="32" alt=""/>      | ppt      | Populous                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/prom.svg" width="32" height="32" alt=""/>     | prom     | Prometeus                       |
