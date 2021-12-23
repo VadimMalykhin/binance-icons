@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>372</strong></summary>
+  <summary>Crypto <strong>376</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -102,8 +102,10 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celr.svg" width="32" height="32" alt=""/>     | celr     | Celer Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cfx.svg" width="32" height="32" alt=""/>      | cfx      | Conflux Network                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chat.svg" width="32" height="32" alt=""/>     | chat     | ChatCoin                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chess.svg" width="32" height="32" alt=""/>    | chess    | Tranchess                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chr.svg" width="32" height="32" alt=""/>      | chr      | Chromia                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/chz.svg" width="32" height="32" alt=""/>      | chz      | Chiliz                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/city.svg" width="32" height="32" alt=""/>     | city     | Manchester City Fan Token       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ckb.svg" width="32" height="32" alt=""/>      | ckb      | CKB                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/clv.svg" width="32" height="32" alt=""/>      | clv      | Clover Finance                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cnd.svg" width="32" height="32" alt=""/>      | cnd      | Cindicator                      |
@@ -208,11 +210,13 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" alt=""/>     | link     | ChainLink                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" alt=""/>      | lit      | Litentry                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loom.svg" width="32" height="32" alt=""/>     | loom     | Loom Network                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loomold.svg" width="32" height="32" alt=""/>  | loomold  | Old Loom Network                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lpt.svg" width="32" height="32" alt=""/>      | lpt      | Livepeer                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lrc.svg" width="32" height="32" alt=""/>      | lrc      | Loopring                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lsk.svg" width="32" height="32" alt=""/>      | lsk      | Lisk                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltc.svg" width="32" height="32" alt=""/>      | ltc      | Litecoin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lto.svg" width="32" height="32" alt=""/>      | lto      | LTO Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltoold.svg" width="32" height="32" alt=""/>   | ltoold   | Old LTO network token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lun.svg" width="32" height="32" alt=""/>      | lun      | Lunyr                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" alt=""/>     | luna     | Terra                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" alt=""/>     | mana     | Decentraland                    |
