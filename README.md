@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>383</strong></summary>
+  <summary>Crypto <strong>394</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -152,15 +152,21 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eng.svg" width="32" height="32" alt=""/>       | eng       | Enigma                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" alt=""/>       | enj       | Enjin Coin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ens.svg" width="32" height="32" alt=""/>       | ens       | Ethereum Name Service           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/entrp.svg" width="32" height="32" alt=""/>     | entrp     | Hut34 Entropy                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eon.svg" width="32" height="32" alt=""/>       | eon       | EOS Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eop.svg" width="32" height="32" alt=""/>       | eop       | EOSpace                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eos.svg" width="32" height="32" alt=""/>       | eos       | EOS                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eps.svg" width="32" height="32" alt=""/>       | eps       | Ellipsis                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/erd.svg" width="32" height="32" alt=""/>       | erd       | Elrond                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ern.svg" width="32" height="32" alt=""/>       | ern       | Ethernity Chain                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etc.svg" width="32" height="32" alt=""/>       | etc       | Ethereum Classic                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eth.svg" width="32" height="32" alt=""/>       | eth       | Ethereum                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethbnt.svg" width="32" height="32" alt=""/>    | ethbnt    | BNT Smart Token Relay           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" alt=""/>       | evx       | Everex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ez.svg" width="32" height="32" alt=""/>        | ez        | EasyFi                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/farm.svg" width="32" height="32" alt=""/>      | farm      | Harvest Finance                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fet.svg" width="32" height="32" alt=""/>       | fet       | Fetch.AI                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fida.svg" width="32" height="32" alt=""/>      | fida      | Bonfida                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fil.svg" width="32" height="32" alt=""/>       | fil       | Filecoin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fio.svg" width="32" height="32" alt=""/>       | fio       | FIO Protocol                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/firo.svg" width="32" height="32" alt=""/>      | firo      | Firo                            |
@@ -175,9 +181,12 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fuel.svg" width="32" height="32" alt=""/>      | fuel      | Etherparty                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fun.svg" width="32" height="32" alt=""/>       | fun       | FunToken                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" alt=""/>       | fxs       | Frax Share                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gala.svg" width="32" height="32" alt=""/>      | gala      | Gala                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" alt=""/>       | gas       | NeoGas                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" alt=""/>      | ghst      | Aavegotchi                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glm.svg" width="32" height="32" alt=""/>       | glm       | Golem                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gno.svg" width="32" height="32" alt=""/>       | gno       | Gnosis                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gnt.svg" width="32" height="32" alt=""/>       | gnt       | Golem                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/go.svg" width="32" height="32" alt=""/>        | go        | GoChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grs.svg" width="32" height="32" alt=""/>       | grs       | Groestlcoin                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/grt.svg" width="32" height="32" alt=""/>       | grt       | The Graph                       |
@@ -306,6 +315,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rvn.svg" width="32" height="32" alt=""/>       | rvn       | Ravencoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/salt.svg" width="32" height="32" alt=""/>      | salt      | Salt                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" alt=""/>      | sand      | The Sandbox                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/santos.svg" width="32" height="32" alt=""/>    | santos    | Santos FC Fan Token             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" alt=""/>        | sc        | Siacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" alt=""/>      | scrt      | Secret                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" alt=""/>       | sfp       | SafePal                         |
@@ -368,6 +378,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wabi.svg" width="32" height="32" alt=""/>      | wabi      | TAEL                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wan.svg" width="32" height="32" alt=""/>       | wan       | Wanchain                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" alt=""/>     | waves     | Waves                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbnb.svg" width="32" height="32" alt=""/>      | wbnb      | Wrapped BNB                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" alt=""/>      | wbtc      | Wrapped Bitcoin                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" alt=""/>       | win       | WINK                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" alt=""/>      | wing      | Wing Token                      |
