@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>424</strong></summary>
+  <summary>Crypto <strong>431</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -325,9 +325,13 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qiswap.svg" width="32" height="32" alt=""/>    | qiswap    | QiSwap                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qkc.svg" width="32" height="32" alt=""/>       | qkc       | QuarkChain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qlc.svg" width="32" height="32" alt=""/>       | qlc       | QLC Chain                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qnt.svg" width="32" height="32" alt=""/>       | qnt       | Quant                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" alt=""/>       | qsp       | Quantstamp                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qtum.svg" width="32" height="32" alt=""/>      | qtum      | Qtum                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/quick.svg" width="32" height="32" alt=""/>     | quick     | QuickSwap                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rad.svg" width="32" height="32" alt=""/>       | rad       | Radicle                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ramp.svg" width="32" height="32" alt=""/>      | ramp      | RAMP                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rare.svg" width="32" height="32" alt=""/>      | rare      | SuperRare                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ray.svg" width="32" height="32" alt=""/>       | ray       | Raydium                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rcn.svg" width="32" height="32" alt=""/>       | rcn       | Ripio Credit Network            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rdn.svg" width="32" height="32" alt=""/>       | rdn       | Raiden Network Token            |
@@ -339,6 +343,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/req.svg" width="32" height="32" alt=""/>       | req       | Request Network                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rif.svg" width="32" height="32" alt=""/>       | rif       | RSK Infrastructure Framework    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rlc.svg" width="32" height="32" alt=""/>       | rlc       | iExecRLC                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rndr.svg" width="32" height="32" alt=""/>      | rndr      | Render Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rose.svg" width="32" height="32" alt=""/>      | rose      | Oasis Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rsr.svg" width="32" height="32" alt=""/>       | rsr       | Reserve Rights                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rune.svg" width="32" height="32" alt=""/>      | rune      | THORChain                       |
@@ -349,6 +354,8 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" alt=""/>        | sc        | Siacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" alt=""/>      | scrt      | Secret                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" alt=""/>       | sfp       | SafePal                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sgb.svg" width="32" height="32" alt=""/>       | sgb       | Songbird                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sgt.svg" width="32" height="32" alt=""/>       | sgt       | snglsDAO Governance Token       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/shib.svg" width="32" height="32" alt=""/>      | shib      | SHIBA INU                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/skl.svg" width="32" height="32" alt=""/>       | skl       | SKALE Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" alt=""/>       | sky       | Skycoin                         |
