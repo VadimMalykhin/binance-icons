@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>409</strong></summary>
+  <summary>Crypto <strong>412</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -231,6 +231,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kncl.svg" width="32" height="32" alt=""/>      | kncl      | Kyber Network Crystal Legacy    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kp3r.svg" width="32" height="32" alt=""/>      | kp3r      | Keep3rV1                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" alt=""/>       | ksm       | Kusama                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lazio.svg" width="32" height="32" alt=""/>     | lazio     | Lazio Fan Token                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lend.svg" width="32" height="32" alt=""/>      | lend      | Aave                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lina.svg" width="32" height="32" alt=""/>      | lina      | Linear                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" alt=""/>      | link      | ChainLink                       |
@@ -245,11 +246,13 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ltoold.svg" width="32" height="32" alt=""/>    | ltoold    | Old LTO network token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lun.svg" width="32" height="32" alt=""/>       | lun       | Lunyr                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" alt=""/>      | luna      | Terra                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ma.svg" width="32" height="32" alt=""/>        | ma        | Manta Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" alt=""/>      | mana      | Decentraland                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mask.svg" width="32" height="32" alt=""/>      | mask      | Mask Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" alt=""/>     | matic     | Polygon                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbl.svg" width="32" height="32" alt=""/>       | mbl       | MovieBloc                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mbox.svg" width="32" height="32" alt=""/>      | mbox      | MOBOX                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mc.svg" width="32" height="32" alt=""/>        | mc        | Merit Circle                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mda.svg" width="32" height="32" alt=""/>       | mda       | Moeda Loyalty Points            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdt.svg" width="32" height="32" alt=""/>       | mdt       | Measurable Data Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdx.svg" width="32" height="32" alt=""/>       | mdx       | Mdex                            |
