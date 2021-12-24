@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>417</strong></summary>
+  <summary>Crypto <strong>418</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -303,6 +303,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perp.svg" width="32" height="32" alt=""/>      | perp      | Perpetual Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pha.svg" width="32" height="32" alt=""/>       | pha       | Phala.Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phb.svg" width="32" height="32" alt=""/>       | phb       | Phoenix Global                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phbv1.svg" width="32" height="32" alt=""/>     | phbv1     | Phoenix Global old              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pivx.svg" width="32" height="32" alt=""/>      | pivx      | PIVX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pnt.svg" width="32" height="32" alt=""/>       | pnt       | pNetwork                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poa.svg" width="32" height="32" alt=""/>       | poa       | POA Network                     |
