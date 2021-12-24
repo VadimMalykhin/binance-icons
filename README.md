@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>404</strong></summary>
+  <summary>Crypto <strong>409</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -208,6 +208,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icp.svg" width="32" height="32" alt=""/>       | icp       | Internet Computer               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/icx.svg" width="32" height="32" alt=""/>       | icx       | ICON                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/idex.svg" width="32" height="32" alt=""/>      | idex      | IDEX                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/idrt.svg" width="32" height="32" alt=""/>      | idrt      | Rupiah Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ilv.svg" width="32" height="32" alt=""/>       | ilv       | Illuvium                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/inj.svg" width="32" height="32" alt=""/>       | inj       | Injective Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ins.svg" width="32" height="32" alt=""/>       | ins       | Insolar                         |
@@ -227,8 +228,10 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/klay.svg" width="32" height="32" alt=""/>      | klay      | Klaytn                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kmd.svg" width="32" height="32" alt=""/>       | kmd       | Komodo                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/knc.svg" width="32" height="32" alt=""/>       | knc       | KyberNetwork                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kncl.svg" width="32" height="32" alt=""/>      | kncl      | Kyber Network Crystal Legacy    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kp3r.svg" width="32" height="32" alt=""/>      | kp3r      | Keep3rV1                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" alt=""/>       | ksm       | Kusama                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lend.svg" width="32" height="32" alt=""/>      | lend      | Aave                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lina.svg" width="32" height="32" alt=""/>      | lina      | Linear                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" alt=""/>      | link      | ChainLink                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" alt=""/>       | lit       | Litentry                        |
@@ -268,6 +271,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nft.svg" width="32" height="32" alt=""/>       | nft       | APENFT                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nkn.svg" width="32" height="32" alt=""/>       | nkn       | NKN                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" alt=""/>       | nmr       | Numeraire                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/npxs.svg" width="32" height="32" alt=""/>      | npxs      | Old Pundi X                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nu.svg" width="32" height="32" alt=""/>        | nu        | NuCypher                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nuls.svg" width="32" height="32" alt=""/>      | nuls      | Nuls                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nvt.svg" width="32" height="32" alt=""/>       | nvt       | NerveNetwork                    |
@@ -278,6 +282,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ogn.svg" width="32" height="32" alt=""/>       | ogn       | OriginToken                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/om.svg" width="32" height="32" alt=""/>        | om        | MANTRA DAO                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/omg.svg" width="32" height="32" alt=""/>       | omg       | OMG Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/omold.svg" width="32" height="32" alt=""/>     | omold     | Old MANTRA DAO                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/one.svg" width="32" height="32" alt=""/>       | one       | Harmony                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" alt=""/>       | ong       | Ontology Gas                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" alt=""/>       | ont       | Ontology                        |
