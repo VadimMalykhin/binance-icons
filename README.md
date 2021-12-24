@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>418</strong></summary>
+  <summary>Crypto <strong>424</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -297,6 +297,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/orn.svg" width="32" height="32" alt=""/>       | orn       | Orion Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ost.svg" width="32" height="32" alt=""/>       | ost       | OST                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" alt=""/>       | oxt       | Orchid                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/para.svg" width="32" height="32" alt=""/>      | para      | Parallel Finance                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pax.svg" width="32" height="32" alt=""/>       | pax       | Paxos Standard                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/paxg.svg" width="32" height="32" alt=""/>      | paxg      | PAX Gold                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perl.svg" width="32" height="32" alt=""/>      | perl      | Perlin                          |
@@ -305,8 +306,10 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phb.svg" width="32" height="32" alt=""/>       | phb       | Phoenix Global                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phbv1.svg" width="32" height="32" alt=""/>     | phbv1     | Phoenix Global old              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pivx.svg" width="32" height="32" alt=""/>      | pivx      | PIVX                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pla.svg" width="32" height="32" alt=""/>       | pla       | PlayDapp                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pnt.svg" width="32" height="32" alt=""/>       | pnt       | pNetwork                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poa.svg" width="32" height="32" alt=""/>       | poa       | POA Network                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poe.svg" width="32" height="32" alt=""/>       | poe       | Po.et                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pols.svg" width="32" height="32" alt=""/>      | pols      | Polkastarter                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poly.svg" width="32" height="32" alt=""/>      | poly      | Polymath                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pond.svg" width="32" height="32" alt=""/>      | pond      | Marlin                          |
@@ -317,6 +320,9 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pros.svg" width="32" height="32" alt=""/>      | pros      | Prosper                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/psg.svg" width="32" height="32" alt=""/>       | psg       | Paris Saint-Germain Fan Token   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pundix.svg" width="32" height="32" alt=""/>    | pundix    | Pundi X                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pyr.svg" width="32" height="32" alt=""/>       | pyr       | Vulcan Forged PYR               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qi.svg" width="32" height="32" alt=""/>        | qi        | BENQI                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qiswap.svg" width="32" height="32" alt=""/>    | qiswap    | QiSwap                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qkc.svg" width="32" height="32" alt=""/>       | qkc       | QuarkChain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qlc.svg" width="32" height="32" alt=""/>       | qlc       | QLC Chain                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/qsp.svg" width="32" height="32" alt=""/>       | qsp       | Quantstamp                      |
