@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>412</strong></summary>
+  <summary>Crypto <strong>417</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -256,13 +256,17 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mda.svg" width="32" height="32" alt=""/>       | mda       | Moeda Loyalty Points            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdt.svg" width="32" height="32" alt=""/>       | mdt       | Measurable Data Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdx.svg" width="32" height="32" alt=""/>       | mdx       | Mdex                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/meetone.svg" width="32" height="32" alt=""/>   | meetone   | MEETONE                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mft.svg" width="32" height="32" alt=""/>       | mft       | Mainframe                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mir.svg" width="32" height="32" alt=""/>       | mir       | Mirror Protocol                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mith.svg" width="32" height="32" alt=""/>      | mith      | Mithril                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mkr.svg" width="32" height="32" alt=""/>       | mkr       | Maker                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mln.svg" width="32" height="32" alt=""/>       | mln       | Enzyme                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mod.svg" width="32" height="32" alt=""/>       | mod       | Modum                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/movr.svg" width="32" height="32" alt=""/>      | movr      | Moonriver                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mth.svg" width="32" height="32" alt=""/>       | mth       | Monetha                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtl.svg" width="32" height="32" alt=""/>       | mtl       | Metal                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtlx.svg" width="32" height="32" alt=""/>      | mtlx      | Mettalex                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nano.svg" width="32" height="32" alt=""/>      | nano      | NANO                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nas.svg" width="32" height="32" alt=""/>       | nas       | Nebulas                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nav.svg" width="32" height="32" alt=""/>       | nav       | Navcoin                         |
@@ -289,6 +293,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/one.svg" width="32" height="32" alt=""/>       | one       | Harmony                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" alt=""/>       | ong       | Ontology Gas                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" alt=""/>       | ont       | Ontology                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/onx.svg" width="32" height="32" alt=""/>       | onx       | OnX.Finance                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/orn.svg" width="32" height="32" alt=""/>       | orn       | Orion Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ost.svg" width="32" height="32" alt=""/>       | ost       | OST                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" alt=""/>       | oxt       | Orchid                          |
