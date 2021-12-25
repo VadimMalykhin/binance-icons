@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>445</strong></summary>
+  <summary>Crypto <strong>447</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -353,6 +353,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/salt.svg" width="32" height="32" alt=""/>      | salt      | Salt                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sand.svg" width="32" height="32" alt=""/>      | sand      | The Sandbox                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/santos.svg" width="32" height="32" alt=""/>    | santos    | Santos FC Fan Token             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sbtc.svg" width="32" height="32" alt=""/>      | sbtc      | Super Bitcoin                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sc.svg" width="32" height="32" alt=""/>        | sc        | Siacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/scrt.svg" width="32" height="32" alt=""/>      | scrt      | Secret                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sfp.svg" width="32" height="32" alt=""/>       | sfp       | SafePal                         |
@@ -429,6 +430,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" alt=""/>     | waves     | Waves                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbnb.svg" width="32" height="32" alt=""/>      | wbnb      | Wrapped BNB                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" alt=""/>      | wbtc      | Wrapped Bitcoin                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/weth.svg" width="32" height="32" alt=""/>      | weth      | Wrapped Ether                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" alt=""/>       | win       | WINK                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" alt=""/>      | wing      | Wing Token                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wings.svg" width="32" height="32" alt=""/>     | wings     | WINGS                           |
