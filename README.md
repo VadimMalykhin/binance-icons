@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>431</strong></summary>
+  <summary>Crypto <strong>440</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -363,19 +363,23 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/slpold.svg" width="32" height="32" alt=""/>    | slpold    | Small Love Potion Old           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sngls.svg" width="32" height="32" alt=""/>     | sngls     | Breaker                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" alt=""/>       | snm       | SONM                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snmold.svg" width="32" height="32" alt=""/>    | snmold    | SONM OLD                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" alt=""/>       | snt       | Status                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snx.svg" width="32" height="32" alt=""/>       | snx       | Synthetix Network Token         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" alt=""/>       | sol       | Solana                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sparta.svg" width="32" height="32" alt=""/>    | sparta    | Spartan Protocol                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/spartaold.svg" width="32" height="32" alt=""/> | spartaold | Spartan Protocol Old            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/srm.svg" width="32" height="32" alt=""/>       | srm       | Serum                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ssv.svg" width="32" height="32" alt=""/>       | ssv       | SSV Token                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/steem.svg" width="32" height="32" alt=""/>     | steem     | Steem                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stmx.svg" width="32" height="32" alt=""/>      | stmx      | StormX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" alt=""/>     | storj     | Storj                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storm.svg" width="32" height="32" alt=""/>     | storm     | Storm                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stpt.svg" width="32" height="32" alt=""/>      | stpt      | Standard Tokenization Protocol  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/strax.svg" width="32" height="32" alt=""/>     | strax     | Stratis                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" alt=""/>       | stx       | Stacks                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sun.svg" width="32" height="32" alt=""/>       | sun       | SUN                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sunold.svg" width="32" height="32" alt=""/>    | sunold    | SUN OLD                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/super.svg" width="32" height="32" alt=""/>     | super     | SuperFarm                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/susd.svg" width="32" height="32" alt=""/>      | susd      | sUSD                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sushi.svg" width="32" height="32" alt=""/>     | sushi     | Sushi                           |
@@ -391,6 +395,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/torn.svg" width="32" height="32" alt=""/>      | torn      | Tornado Cash                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trb.svg" width="32" height="32" alt=""/>       | trb       | Tellor Tributes                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tribe.svg" width="32" height="32" alt=""/>     | tribe     | Tribe                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trig.svg" width="32" height="32" alt=""/>      | trig      | Triggers                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/troy.svg" width="32" height="32" alt=""/>      | troy      | Troy                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/tru.svg" width="32" height="32" alt=""/>       | tru       | TrueFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/trx.svg" width="32" height="32" alt=""/>       | trx       | TRON                            |
@@ -411,6 +416,9 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vib.svg" width="32" height="32" alt=""/>       | vib       | Viberate                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vidt.svg" width="32" height="32" alt=""/>      | vidt      | VIDT Datalink                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vite.svg" width="32" height="32" alt=""/>      | vite      | VITE                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/voxel.svg" width="32" height="32" alt=""/>     | voxel     | Voxies                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vrab.svg" width="32" height="32" alt=""/>      | vrab      | Verasity                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vrt.svg" width="32" height="32" alt=""/>       | vrt       | Venus Reward Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vtho.svg" width="32" height="32" alt=""/>      | vtho      | VeThor Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wabi.svg" width="32" height="32" alt=""/>      | wabi      | TAEL                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wan.svg" width="32" height="32" alt=""/>       | wan       | Wanchain                        |
@@ -419,6 +427,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" alt=""/>      | wbtc      | Wrapped Bitcoin                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/win.svg" width="32" height="32" alt=""/>       | win       | WINK                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" alt=""/>      | wing      | Wing Token                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wings.svg" width="32" height="32" alt=""/>     | wings     | WINGS                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wnxm.svg" width="32" height="32" alt=""/>      | wnxm      | Wrapped NXM                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" alt=""/>       | wpr       | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>       | wrx       | WazirX                          |
