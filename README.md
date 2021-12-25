@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>443</strong></summary>
+  <summary>Crypto <strong>445</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -43,6 +43,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/arpa.svg" width="32" height="32" alt=""/>      | arpa      | ARPA Chain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/asr.svg" width="32" height="32" alt=""/>       | asr       | AS Roma Fan Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ast.svg" width="32" height="32" alt=""/>       | ast       | AirSwap                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/astr.svg" width="32" height="32" alt=""/>      | astr      | Astar                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ata.svg" width="32" height="32" alt=""/>       | ata       | Automata                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atd.svg" width="32" height="32" alt=""/>       | atd       | Atidium                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/atm.svg" width="32" height="32" alt=""/>       | atm       | Atlético de Madrid Fan Token    |
@@ -118,6 +119,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cream.svg" width="32" height="32" alt=""/>     | cream     | Cream Finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/crv.svg" width="32" height="32" alt=""/>       | crv       | Curve                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctk.svg" width="32" height="32" alt=""/>       | ctk       | CertiK                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctr.svg" width="32" height="32" alt=""/>       | ctr       | Centra                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctsi.svg" width="32" height="32" alt=""/>      | ctsi      | Cartesi                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctxc.svg" width="32" height="32" alt=""/>      | ctxc      | Cortex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" alt=""/>       | cvc       | Civic                           |
