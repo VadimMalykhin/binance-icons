@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>440</strong></summary>
+  <summary>Crypto <strong>443</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -408,8 +408,10 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" alt=""/>       | uni       | Uniswap                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" alt=""/>      | usdc      | USD Coin                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdp.svg" width="32" height="32" alt=""/>      | usdp      | Pax Dollar                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usds.svg" width="32" height="32" alt=""/>      | usds      | StableUSD                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" alt=""/>      | usdt      | TetherUS                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/utk.svg" width="32" height="32" alt=""/>       | utk       | Utrust                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vai.svg" width="32" height="32" alt=""/>       | vai       | Vai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" alt=""/>       | vet       | VeChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vgx.svg" width="32" height="32" alt=""/>       | vgx       | Voyager Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/via.svg" width="32" height="32" alt=""/>       | via       | Viacoin                         |
@@ -433,6 +435,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>       | wrx       | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wsol.svg" width="32" height="32" alt=""/>      | wsol      | Wrapped SOL                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" alt=""/>       | wtc       | Walton                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xdata.svg" width="32" height="32" alt=""/>     | xdata     | Streamr XDATA                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xec.svg" width="32" height="32" alt=""/>       | xec       | eCash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>       | xem       | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" alt=""/>       | xlm       | Stellar Lumens                  |
