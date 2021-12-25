@@ -6,7 +6,7 @@ The Crypto/currency icons listed on Binance exchange.
 ## Preview
 
 <details>
-  <summary>Crypto <strong>447</strong></summary>
+  <summary>Crypto <strong>449</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -93,7 +93,6 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btt.svg" width="32" height="32" alt=""/>       | btt       | BitTorrent                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/burger.svg" width="32" height="32" alt=""/>    | burger    | Burger Swap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" alt=""/>      | busd      | BUSD                            |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bzrx.svg" width="32" height="32" alt=""/>      | bzrx      | bZx Protocol                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/c98.svg" width="32" height="32" alt=""/>       | c98       | Coin98                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" alt=""/>      | cake      | PancakeSwap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/can.svg" width="32" height="32" alt=""/>       | can       | CanYaCoin                       |
@@ -296,6 +295,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ong.svg" width="32" height="32" alt=""/>       | ong       | Ontology Gas                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ont.svg" width="32" height="32" alt=""/>       | ont       | Ontology                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/onx.svg" width="32" height="32" alt=""/>       | onx       | OnX.Finance                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ooki.svg" width="32" height="32" alt=""/>      | ooki      | OokiDAO                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/orn.svg" width="32" height="32" alt=""/>       | orn       | Orion Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ost.svg" width="32" height="32" alt=""/>       | ost       | OST                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" alt=""/>       | oxt       | Orchid                          |
@@ -372,6 +372,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" alt=""/>       | sol       | Solana                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sparta.svg" width="32" height="32" alt=""/>    | sparta    | Spartan Protocol                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/spartaold.svg" width="32" height="32" alt=""/> | spartaold | Spartan Protocol Old            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/spell.svg" width="32" height="32" alt=""/>     | spell     | Spell Token                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/srm.svg" width="32" height="32" alt=""/>       | srm       | Serum                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ssv.svg" width="32" height="32" alt=""/>       | ssv       | SSV Token                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/steem.svg" width="32" height="32" alt=""/>     | steem     | Steem                           |
@@ -413,6 +414,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdp.svg" width="32" height="32" alt=""/>      | usdp      | Pax Dollar                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usds.svg" width="32" height="32" alt=""/>      | usds      | StableUSD                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdt.svg" width="32" height="32" alt=""/>      | usdt      | TetherUS                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ust.svg" width="32" height="32" alt=""/>       | ust       | TerraUSD                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/utk.svg" width="32" height="32" alt=""/>       | utk       | Utrust                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vai.svg" width="32" height="32" alt=""/>       | vai       | Vai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" alt=""/>       | vet       | VeChain                         |
