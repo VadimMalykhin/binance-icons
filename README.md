@@ -1,14 +1,14 @@
 # binance-icons
 
-The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/register?ref=Z9RLFPHB">Binance</a> exchange.
+The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/register?ref=Z9RLFPHB" target="_blank">Binance</a> exchange.
 
 ## Preview
 
-<a href="https://vadimmalykhin.github.io/binance-icons/">Live preview</a>
+<a href="https://vadimmalykhin.github.io/binance-icons/" target="_blank">Live preview</a>
 
 
 <details>
-  <summary>Crypto <strong>452</strong></summary>
+  <summary>Crypto <strong>459</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -100,6 +100,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/c98.svg" width="32" height="32" alt=""/>       | c98       | Coin98                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" alt=""/>      | cake      | PancakeSwap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/can.svg" width="32" height="32" alt=""/>       | can       | CanYaCoin                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cbk.svg" width="32" height="32" alt=""/>       | cbk       | Cobak                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cbm.svg" width="32" height="32" alt=""/>       | cbm       | Crypto Bonus Miles Token        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cdt.svg" width="32" height="32" alt=""/>       | cdt       | Blox                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/celo.svg" width="32" height="32" alt=""/>      | celo      | Celo                            |
@@ -127,6 +128,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ctxc.svg" width="32" height="32" alt=""/>      | ctxc      | Cortex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvc.svg" width="32" height="32" alt=""/>       | cvc       | Civic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvp.svg" width="32" height="32" alt=""/>       | cvp       | PowerPool                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cvx.svg" width="32" height="32" alt=""/>       | cvx       | Convex Finance                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dai.svg" width="32" height="32" alt=""/>       | dai       | Dai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dar.svg" width="32" height="32" alt=""/>       | dar       | Mines of Dalarnia               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/dash.svg" width="32" height="32" alt=""/>      | dash      | Dash                            |
@@ -204,6 +206,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hard.svg" width="32" height="32" alt=""/>      | hard      | Kava Lend                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hbar.svg" width="32" height="32" alt=""/>      | hbar      | Hedera Hashgraph                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hc.svg" width="32" height="32" alt=""/>        | hc        | HyperCash                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hcc.svg" width="32" height="32" alt=""/>       | hcc       | HealthCare Chain                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hegic.svg" width="32" height="32" alt=""/>     | hegic     | Hegic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/high.svg" width="32" height="32" alt=""/>      | high      | Highstreet                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hive.svg" width="32" height="32" alt=""/>      | hive      | Hive                            |
@@ -348,6 +351,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" alt=""/>       | rep       | Augur v2                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/repv1.svg" width="32" height="32" alt=""/>     | repv1     | Augur                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/req.svg" width="32" height="32" alt=""/>       | req       | Request Network                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rgt.svg" width="32" height="32" alt=""/>       | rgt       | Rari Governance Token           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rif.svg" width="32" height="32" alt=""/>       | rif       | RSK Infrastructure Framework    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rlc.svg" width="32" height="32" alt=""/>       | rlc       | iExecRLC                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rndr.svg" width="32" height="32" alt=""/>      | rndr      | Render Token                    |
@@ -387,6 +391,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stpt.svg" width="32" height="32" alt=""/>      | stpt      | Standard Tokenization Protocol  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/strax.svg" width="32" height="32" alt=""/>     | strax     | Stratis                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stx.svg" width="32" height="32" alt=""/>       | stx       | Stacks                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sub.svg" width="32" height="32" alt=""/>       | sub       | Substratum                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sun.svg" width="32" height="32" alt=""/>       | sun       | SUN                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sunold.svg" width="32" height="32" alt=""/>    | sunold    | SUN OLD                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/super.svg" width="32" height="32" alt=""/>     | super     | SuperFarm                       |
@@ -413,6 +418,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/twt.svg" width="32" height="32" alt=""/>       | twt       | Trust Wallet Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uft.svg" width="32" height="32" alt=""/>       | uft       | UniLend                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uma.svg" width="32" height="32" alt=""/>       | uma       | UMA                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/und.svg" width="32" height="32" alt=""/>       | und       | Unification                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/unfi.svg" width="32" height="32" alt=""/>      | unfi      | Unifi Protocol DAO              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/uni.svg" width="32" height="32" alt=""/>       | uni       | Uniswap                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/usdc.svg" width="32" height="32" alt=""/>      | usdc      | USD Coin                        |
@@ -459,6 +465,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xym.svg" width="32" height="32" alt=""/>       | xym       | Symbol                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfi.svg" width="32" height="32" alt=""/>       | yfi       | yearn.finance                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfii.svg" width="32" height="32" alt=""/>      | yfii      | DFI.Money                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ygg.svg" width="32" height="32" alt=""/>       | ygg       | Yield Guild Games               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yoyo.svg" width="32" height="32" alt=""/>      | yoyo      | YOYOW                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zec.svg" width="32" height="32" alt=""/>       | zec       | Zcash                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/zen.svg" width="32" height="32" alt=""/>       | zen       | Horizen                         |
@@ -540,7 +547,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 
 ## Resources
 
-[Figma](https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1)
+<a href="https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1" target="_blank">Figma</a>
 
 ## License
 
