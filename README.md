@@ -7,7 +7,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 <a href="https://vadimmalykhin.github.io/binance-icons/" target="_blank">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>460</strong></summary>
+  <summary>Crypto <strong>462</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -166,6 +166,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/erd.svg" width="32" height="32" alt=""/>       | erd       | Elrond                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ern.svg" width="32" height="32" alt=""/>       | ern       | Ethernity Chain                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etc.svg" width="32" height="32" alt=""/>       | etc       | Ethereum Classic                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etf.svg" width="32" height="32" alt=""/>       | etf       | ETF                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eth.svg" width="32" height="32" alt=""/>       | eth       | Ethereum                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethbnt.svg" width="32" height="32" alt=""/>    | ethbnt    | BNT Smart Token Relay           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" alt=""/>       | evx       | Everex                          |
@@ -265,6 +266,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mdx.svg" width="32" height="32" alt=""/>       | mdx       | Mdex                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/meetone.svg" width="32" height="32" alt=""/>   | meetone   | MEETONE                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mft.svg" width="32" height="32" alt=""/>       | mft       | Mainframe                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mina.svg" width="32" height="32" alt=""/>      | mina      | Mina                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mir.svg" width="32" height="32" alt=""/>       | mir       | Mirror Protocol                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mith.svg" width="32" height="32" alt=""/>      | mith      | Mithril                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mkr.svg" width="32" height="32" alt=""/>       | mkr       | Maker                           |
