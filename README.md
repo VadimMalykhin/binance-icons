@@ -6,9 +6,8 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 
 <a href="https://vadimmalykhin.github.io/binance-icons/" target="_blank">Live preview</a>
 
-
 <details>
-  <summary>Crypto <strong>459</strong></summary>
+  <summary>Crypto <strong>460</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -311,6 +310,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pax.svg" width="32" height="32" alt=""/>       | pax       | Paxos Standard                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/paxg.svg" width="32" height="32" alt=""/>      | paxg      | PAX Gold                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perl.svg" width="32" height="32" alt=""/>      | perl      | Perlin                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perlold.svg" width="32" height="32" alt=""/>   | perlold   | Perlin Old Token                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/perp.svg" width="32" height="32" alt=""/>      | perp      | Perpetual Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pha.svg" width="32" height="32" alt=""/>       | pha       | Phala.Network                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/phb.svg" width="32" height="32" alt=""/>       | phb       | Phoenix Global                  |
