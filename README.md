@@ -1,12 +1,14 @@
 # binance-icons
-The Crypto/currency icons listed on Binance exchange.
 
-<a href="https://accounts.binance.com/en/register?ref=Z9RLFPHB">Click on the link to kickstart your crypto portfolio.</a>
+The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/register?ref=Z9RLFPHB">Binance</a> exchange.
 
 ## Preview
 
+<a href="https://vadimmalykhin.github.io/binance-icons/">Live preview</a>
+
+
 <details>
-  <summary>Crypto <strong>449</strong></summary>
+  <summary>Crypto <strong>452</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -82,6 +84,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnt.svg" width="32" height="32" alt=""/>       | bnt       | Bancor                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bnx.svg" width="32" height="32" alt=""/>       | bnx       | BinaryX                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/boba.svg" width="32" height="32" alt=""/>      | boba      | BOBA token                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bolt.svg" width="32" height="32" alt=""/>      | bolt      | BOLT                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bond.svg" width="32" height="32" alt=""/>      | bond      | BarnBridge                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" alt=""/>       | bot       | Bounce Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bqx.svg" width="32" height="32" alt=""/>       | bqx       | Old Voyager Token               |
@@ -93,6 +96,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btt.svg" width="32" height="32" alt=""/>       | btt       | BitTorrent                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/burger.svg" width="32" height="32" alt=""/>    | burger    | Burger Swap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" alt=""/>      | busd      | BUSD                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bvnd.svg" width="32" height="32" alt=""/>      | bvnd      | BVND                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/c98.svg" width="32" height="32" alt=""/>       | c98       | Coin98                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" alt=""/>      | cake      | PancakeSwap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/can.svg" width="32" height="32" alt=""/>       | can       | CanYaCoin                       |
@@ -280,6 +284,7 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nkn.svg" width="32" height="32" alt=""/>       | nkn       | NKN                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" alt=""/>       | nmr       | Numeraire                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/npxs.svg" width="32" height="32" alt=""/>      | npxs      | Old Pundi X                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nsbt.svg" width="32" height="32" alt=""/>      | nsbt      | Neutrino Token                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nu.svg" width="32" height="32" alt=""/>        | nu        | NuCypher                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nuls.svg" width="32" height="32" alt=""/>      | nuls      | Nuls                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nvt.svg" width="32" height="32" alt=""/>       | nvt       | NerveNetwork                    |
@@ -533,9 +538,9 @@ The Crypto/currency icons listed on Binance exchange.
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/uah.svg" width="32" height="32" alt=""/> | uah | Ukraine Hryvnia   |
 </details>
 
-## Figma
+## Resources
 
-[Binance](https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1)
+[Figma](https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1)
 
 ## License
 
