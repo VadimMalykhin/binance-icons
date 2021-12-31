@@ -535,28 +535,32 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 </details>
 
 <details>
-  <summary>Currency <strong>13</strong></summary>
+  <summary>Currency <strong>17</strong></summary>
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/aud.svg" width="32" height="32" alt=""/> | aud | Australian Dollar |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/chf.svg" width="32" height="32" alt=""/> | chf | schweizer Franken |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/czk.svg" width="32" height="32" alt=""/> | czk | Czech Koruny      |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/eur.svg" width="32" height="32" alt=""/> | eur | Euro              |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/gbp.svg" width="32" height="32" alt=""/> | gbp | Pound Sterling    |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/hkd.svg" width="32" height="32" alt=""/> | hkd | Hong Kong Dollar  |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/jpy.svg" width="32" height="32" alt=""/> | jpy | Japanese Yen      |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kzt.svg" width="32" height="32" alt=""/> | kzt | Kazakhstani Tenge |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/rub.svg" width="32" height="32" alt=""/> | rub | Russian Ruble     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/try.svg" width="32" height="32" alt=""/> | try | Turkish Lira      |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/uah.svg" width="32" height="32" alt=""/> | uah | Ukraine Hryvnia   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/usd.svg" width="32" height="32" alt=""/> | usd | USD               |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/vnd.svg" width="32" height="32" alt=""/> | vnd | Vietnamese Dong   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/aud.svg" width="32" height="32" alt=""/> | aud | Australian Dollar  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/chf.svg" width="32" height="32" alt=""/> | chf | schweizer Franken  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/czk.svg" width="32" height="32" alt=""/> | czk | Czech Koruny       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/eur.svg" width="32" height="32" alt=""/> | eur | Euro               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/gbp.svg" width="32" height="32" alt=""/> | gbp | Pound Sterling     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/hkd.svg" width="32" height="32" alt=""/> | hkd | Hong Kong Dollar   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/jpy.svg" width="32" height="32" alt=""/> | jpy | Japanese Yen       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kzt.svg" width="32" height="32" alt=""/> | kzt | Kazakhstani Tenge  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/php.svg" width="32" height="32" alt=""/> | php | Philippine Peso    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/rub.svg" width="32" height="32" alt=""/> | rub | Russian Ruble      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/sek.svg" width="32" height="32" alt=""/> | sek | Swedish Kroner     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/try.svg" width="32" height="32" alt=""/> | try | Turkish Lira       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/uah.svg" width="32" height="32" alt=""/> | uah | Ukraine Hryvnia    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/ugx.svg" width="32" height="32" alt=""/> | ugx | Uganda Shilling    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/usd.svg" width="32" height="32" alt=""/> | usd | USD                |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/vnd.svg" width="32" height="32" alt=""/> | vnd | Vietnamese Dong    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/zar.svg" width="32" height="32" alt=""/> | zar | South African Rand |
 </details>
 
 ## Resources
 
-<a href="https://www.figma.com/file/Y7Tg0OaA427HwKjDpWgnCs/Binance?node-id=0%3A1" target="_blank">Figma</a>
+<a href="https://www.figma.com/community/file/1055487423124551755/Binance" target="_blank">Figma</a>
 
 ## License
 
