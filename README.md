@@ -1,13 +1,13 @@
-# binance-icons
+# ◆ Binance Icons
 
-The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/register?ref=Z9RLFPHB" target="_blank">Binance</a> exchange.
+The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a> exchange.
 
 ## Preview
 
-<a href="https://vadimmalykhin.github.io/binance-icons/" target="_blank">Live preview</a>
+<a href="https://bit.ly/3sQit7g">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>463</strong></summary>
+  <summary>Crypto <strong>464</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -240,6 +240,7 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kp3r.svg" width="32" height="32" alt=""/>      | kp3r      | Keep3rV1                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" alt=""/>       | ksm       | Kusama                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lazio.svg" width="32" height="32" alt=""/>     | lazio     | Lazio Fan Token                 |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lba.svg" width="32" height="32" alt=""/>       | lba       | Lend Borrow Asset               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lend.svg" width="32" height="32" alt=""/>      | lend      | Aave                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lina.svg" width="32" height="32" alt=""/>      | lina      | Linear                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" alt=""/>      | link      | ChainLink                       |
@@ -577,8 +578,8 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 
 ## Resources
 
-<a href="https://www.figma.com/community/file/1055487423124551755/Binance" target="_blank">Figma</a>
+<a href="https://bit.ly/3pJ422U">Figma</a>
 
 ## License
 
-MIT
+<a href="https://github.com/VadimMalykhin/binance-icons/blob/main/LICENSE">MIT</a>
