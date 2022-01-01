@@ -535,18 +535,21 @@ The Crypto/currency icons listed on <a href="https://accounts.binance.com/en/reg
 </details>
 
 <details>
-  <summary>Currency <strong>17</strong></summary>
+  <summary>Currency <strong>20</strong></summary>
   
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/aud.svg" width="32" height="32" alt=""/> | aud | Australian Dollar  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/chf.svg" width="32" height="32" alt=""/> | chf | schweizer Franken  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/czk.svg" width="32" height="32" alt=""/> | czk | Czech Koruny       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/dkk.svg" width="32" height="32" alt=""/> | dkk | Danish Kroner      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/eur.svg" width="32" height="32" alt=""/> | eur | Euro               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/gbp.svg" width="32" height="32" alt=""/> | gbp | Pound Sterling     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/hkd.svg" width="32" height="32" alt=""/> | hkd | Hong Kong Dollar   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/jpy.svg" width="32" height="32" alt=""/> | jpy | Japanese Yen       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kzt.svg" width="32" height="32" alt=""/> | kzt | Kazakhstani Tenge  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/nok.svg" width="32" height="32" alt=""/> | nok | Norwegian Kroner   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/nzd.svg" width="32" height="32" alt=""/> | nzd | New Zealand Dollar |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/php.svg" width="32" height="32" alt=""/> | php | Philippine Peso    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/rub.svg" width="32" height="32" alt=""/> | rub | Russian Ruble      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/sek.svg" width="32" height="32" alt=""/> | sek | Swedish Kroner     |
