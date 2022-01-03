@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "name": "Binance Icons",
   "description": "Binance Icons WebApp",
   "icons": {
@@ -8,7 +8,7 @@
     "512": "firefox_app_512x512.png"
   },
   "developer": {
-    "name": null,
-    "url": null
+    "name": "Vadim Malykhin",
+    "url": "https://github.com/VadimMalykhin/binance-icons/tree/gh-pages"
   }
 }

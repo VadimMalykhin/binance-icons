@@ -5,10 +5,10 @@
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
-  "orientation": "any",
-  "start_url": "/?homescreen=1",
+  "orientation": "portrait",
+  "start_url": "/binance-icons/?homescreen=1",
   "background_color": "#000000",
-  "theme_color": "#0088cc",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "android-chrome-36x36.png",
