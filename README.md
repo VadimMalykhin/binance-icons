@@ -580,6 +580,10 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 
 <a href="https://bit.ly/3pJ422U">Figma</a>
 
+## Contributing
+
+Contributions are more than welcome, if you are interested please take a look to the <a href="https://github.com/VadimMalykhin/binance-icons/.github/CONTRIBUTING.md">Contributing Guidelines</a>.
+
 ## License
 
 <a href="https://github.com/VadimMalykhin/binance-icons/blob/main/LICENSE">MIT</a>
