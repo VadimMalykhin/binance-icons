@@ -7,7 +7,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 <a href="https://bit.ly/3sQit7g">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>464</strong></summary>
+  <summary>Crypto <strong>462</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -377,7 +377,6 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sky.svg" width="32" height="32" alt=""/>       | sky       | Skycoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/slp.svg" width="32" height="32" alt=""/>       | slp       | Smooth Love Potion              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/slpold.svg" width="32" height="32" alt=""/>    | slpold    | Small Love Potion Old           |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sngls.svg" width="32" height="32" alt=""/>     | sngls     | Breaker                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snm.svg" width="32" height="32" alt=""/>       | snm       | SONM                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snmold.svg" width="32" height="32" alt=""/>    | snmold    | SONM OLD                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" alt=""/>       | snt       | Status                          |
@@ -434,7 +433,6 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vai.svg" width="32" height="32" alt=""/>       | vai       | Vai                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vet.svg" width="32" height="32" alt=""/>       | vet       | VeChain                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vgx.svg" width="32" height="32" alt=""/>       | vgx       | Voyager Token                   |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/via.svg" width="32" height="32" alt=""/>       | via       | Viacoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vib.svg" width="32" height="32" alt=""/>       | vib       | Viberate                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vidt.svg" width="32" height="32" alt=""/>      | vidt      | VIDT Datalink                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/vite.svg" width="32" height="32" alt=""/>      | vite      | VITE                            |
