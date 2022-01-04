@@ -7,7 +7,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 <a href="https://bit.ly/3sQit7g">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>462</strong></summary>
+  <summary>Crypto <strong>463</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -227,6 +227,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iris.svg" width="32" height="32" alt=""/>      | iris      | IRISnet                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jasmy.svg" width="32" height="32" alt=""/>     | jasmy     | JasmyCoin                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jex.svg" width="32" height="32" alt=""/>       | jex       | Jex Token                       |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/joe.svg" width="32" height="32" alt=""/>       | joe       | JOE                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/jst.svg" width="32" height="32" alt=""/>       | jst       | JUST                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/juv.svg" width="32" height="32" alt=""/>       | juv       | Juventus Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/kava.svg" width="32" height="32" alt=""/>      | kava      | Kava                            |
