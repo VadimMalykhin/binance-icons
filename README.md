@@ -4,7 +4,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 
 ## Preview
 
-<a href="https://bit.ly/3sQit7g">Live preview</a>
+<a href="https://vadimmalykhin.github.io/binance-icons/">Live preview</a>
 
 <details>
   <summary>Crypto <strong>463</strong></summary>
@@ -577,11 +577,11 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 
 ## Resources
 
-<a href="https://bit.ly/3pJ422U">Figma</a>
+<a href="https://www.figma.com/community/file/1055487423124551755">Figma</a>
 
 ## Contributing
 
-Contributions are more than welcome, if you are interested please take a look to the <a href="https://github.com/VadimMalykhin/binance-icons/.github/CONTRIBUTING.md">Contributing Guidelines</a>.
+Contributions are more than welcome, if you are interested please take a look to the <a href="https://github.com/VadimMalykhin/binance-icons/blob/main/.github/CONTRIBUTING.md">Contributing Guidelines</a>.
 
 ## License
 
