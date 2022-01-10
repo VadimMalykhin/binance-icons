@@ -7,13 +7,14 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 <a href="https://vadimmalykhin.github.io/binance-icons/">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>463</strong></summary>
+  <summary>Crypto <strong>465</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aave.svg" width="32" height="32" alt=""/>      | aave      | Aave                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/aca.svg" width="32" height="32" alt=""/>       | aca       | Acala Token                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ach.svg" width="32" height="32" alt=""/>       | ach       | Alchemy Pay                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/acm.svg" width="32" height="32" alt=""/>       | acm       | AC Milan Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ada.svg" width="32" height="32" alt=""/>       | ada       | Cardano                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/add.svg" width="32" height="32" alt=""/>       | add       | ADD                             |
@@ -218,6 +219,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/idex.svg" width="32" height="32" alt=""/>      | idex      | IDEX                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/idrt.svg" width="32" height="32" alt=""/>      | idrt      | Rupiah Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ilv.svg" width="32" height="32" alt=""/>       | ilv       | Illuvium                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/imx.svg" width="32" height="32" alt=""/>       | imx       | Immutable X                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/inj.svg" width="32" height="32" alt=""/>       | inj       | Injective Protocol              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ins.svg" width="32" height="32" alt=""/>       | ins       | Insolar                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/iost.svg" width="32" height="32" alt=""/>      | iost      | IOST                            |
