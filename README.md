@@ -7,7 +7,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 <a href="https://vadimmalykhin.github.io/binance-icons/">Live preview</a>
 
 <details>
-  <summary>Crypto <strong>465</strong></summary>
+  <summary>Crypto <strong>466</strong></summary>
 
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
@@ -446,6 +446,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wabi.svg" width="32" height="32" alt=""/>      | wabi      | TAEL                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wan.svg" width="32" height="32" alt=""/>       | wan       | Wanchain                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waves.svg" width="32" height="32" alt=""/>     | waves     | Waves                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/waxp.svg" width="32" height="32" alt=""/>      | waxp      | WAX                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbnb.svg" width="32" height="32" alt=""/>      | wbnb      | Wrapped BNB                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wbtc.svg" width="32" height="32" alt=""/>      | wbtc      | Wrapped Bitcoin                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/weth.svg" width="32" height="32" alt=""/>      | weth      | Wrapped Ether                   |
