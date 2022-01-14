@@ -1,6 +1,14 @@
-# ◆ Binance Icons
-
-The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a> exchange.
+<p align="center">
+  <a href="https://github.com/VadimMalykhin/binance-icons">
+    <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/.github/assets/logo.svg" width="128" height="128" alt="Logo">
+  </a>
+</p>
+<h1 align="center">
+    ◆ Binance Icons
+</h1>
+<p align="center">
+    The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a> exchange.
+</p>
 
 ## Preview
 
