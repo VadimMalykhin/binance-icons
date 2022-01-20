@@ -17,7 +17,7 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 ### Package
 ```shell
 # NPM
-$ npm install binance-icons
+$ npm i -S binance-icons
 # Yarn
 $ yarn add binance-icons
 ```
@@ -32,15 +32,17 @@ https://github.com/VadimMalykhin/binance-icons/archive/refs/heads/main.zip
 ### Node.js
 **JavaScript**
 ```js
-const { icon } = require('binance-icons');
+const { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } = require('binance-icons');
 
-const btc = icon['btc'];
+const hasBtc = icon.has('btc');
+const getBtc = icon.get('btc');
 ```
 **TypeScript**
 ```ts
-import { icon } from 'binance-icons';
+import { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } from 'binance-icons';
 
-const btc = icon['btc'];
+const hasBtc = icon.has('btc');
+const getBtc = icon.get('btc');
 ```
 
 ### Zip Archive
