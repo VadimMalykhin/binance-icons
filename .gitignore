@@ -1,0 +1,9 @@
+node_modules
+lib/**
+.idea
+.git
+.config
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json

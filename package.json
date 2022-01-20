@@ -1,0 +1,50 @@
+{
+  "name": "binance-icons",
+  "version": "0.0.0",
+  "description": "The Crypto/currency icons listed on Binance exchange",
+  "author": {
+    "name": "Vadim Malykhin",
+    "email": "dev@61re.com",
+    "url": "https://github.com/VadimMalykhin"
+  },
+  "homepage": "https://vadimmalykhin.github.io/binance-icons/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimMalykhin/binance-icons.git"
+  },
+  "keywords": [
+    "binance",
+    "svg",
+    "icons",
+    "bitcoin",
+    "bnb"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "clean": "rimraf lib/*",
+    "prebuild": "npm run clean",
+    "build": "tsc",
+    "postbuild": "terser lib/index.js -o lib/index.js -c",
+    "format": "prettier --write **/*.ts",
+    "format-check": "prettier --check **/*.ts",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts --ignore-path .gitignore",
+    "fix": "eslint src/**/*.ts --fix --ignore-path .gitignore"
+  },
+  "files": [
+    "lib",
+    "types"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "jest": "^27.4.7",
+    "prettier": "^2.5.1",
+    "rimraf": "^3.0.2",
+    "terser": "^5.10.0",
+    "typescript": "^4.5.4"
+  }
+}
