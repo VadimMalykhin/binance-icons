@@ -1,5 +1,7 @@
+<p align="center"><a href="https://github.com/VadimMalykhin/binance-icons"><img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/.github/assets/header.svg" alt="◆ BINANCE ICONS"></a></p>
 
-# ◆ Binance Icons NPM
+# ◆ BINANCE ICONS 
+The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a> exchange.
 
 ## Getting Started
 
@@ -12,6 +14,24 @@ Or [npm](https://www.npmjs.com/package/binance-icons):
 
 ```shell
 npm i -S binance-icons
+```
+
+## Usage
+
+**JavaScript**
+```js
+const { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } = require('binance-icons');
+
+const hasBtc = icon.has('btc');
+const getBtc = icon.get('btc');
+```
+
+**TypeScript**
+```ts
+import { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } from 'binance-icons';
+
+const hasBtc = icon.has('btc');
+const getBtc = icon.get('btc');
 ```
 
 ## Disclaimer
