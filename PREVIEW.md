@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 473
+## Crypto 475
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -25,6 +25,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/alpha.svg" width="32" height="32" alt=""/>     | alpha     | Alpha Finance Lab               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/amb.svg" width="32" height="32" alt=""/>       | amb       | Ambrosus                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/amp.svg" width="32" height="32" alt=""/>       | amp       | AMP                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/anc.svg" width="32" height="32" alt=""/>       | anc       | Anchor Protocol                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ankr.svg" width="32" height="32" alt=""/>      | ankr      | Ankr                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ant.svg" width="32" height="32" alt=""/>       | ant       | Aragon                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/antold.svg" width="32" height="32" alt=""/>    | antold    | Old Aragon                      |
@@ -61,6 +62,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcha.svg" width="32" height="32" alt=""/>      | bcha      | Bitcoin Cash ABC                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bchsv.svg" width="32" height="32" alt=""/>     | bchsv     | Bitcoin Cash SV                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bcx.svg" width="32" height="32" alt=""/>       | bcx       | BitcoinX                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bdot.svg" width="32" height="32" alt=""/>      | bdot      | BDOT                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beam.svg" width="32" height="32" alt=""/>      | beam      | Beam                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bel.svg" width="32" height="32" alt=""/>       | bel       | Bella Protocol                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/beta.svg" width="32" height="32" alt=""/>      | beta      | Beta Finance                    |
@@ -86,7 +88,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcst.svg" width="32" height="32" alt=""/>     | btcst     | Bitcoin Standard Hashrate Token |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btg.svg" width="32" height="32" alt=""/>       | btg       | Bitcoin Gold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bts.svg" width="32" height="32" alt=""/>       | bts       | BitShares                       |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btt.svg" width="32" height="32" alt=""/>       | btt       | BitTorrent                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bttc.svg" width="32" height="32" alt=""/>      | bttc      | BitTorrent                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bttold.svg" width="32" height="32" alt=""/>    | bttold    | BitTorrent OLD                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/burger.svg" width="32" height="32" alt=""/>    | burger    | Burger Swap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" alt=""/>      | busd      | BUSD                            |
