@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 475
+## Crypto 477
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -93,6 +93,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/burger.svg" width="32" height="32" alt=""/>    | burger    | Burger Swap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/busd.svg" width="32" height="32" alt=""/>      | busd      | BUSD                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bvnd.svg" width="32" height="32" alt=""/>      | bvnd      | BVND                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bzrx.svg" width="32" height="32" alt=""/>      | bzrx      | bZx Protocol                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/c98.svg" width="32" height="32" alt=""/>       | c98       | Coin98                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/cake.svg" width="32" height="32" alt=""/>      | cake      | PancakeSwap                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/can.svg" width="32" height="32" alt=""/>       | can       | CanYaCoin                       |
@@ -277,7 +278,6 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mth.svg" width="32" height="32" alt=""/>       | mth       | Monetha                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtl.svg" width="32" height="32" alt=""/>       | mtl       | Metal                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtlx.svg" width="32" height="32" alt=""/>      | mtlx      | Mettalex                        |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nano.svg" width="32" height="32" alt=""/>      | nano      | NANO                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nas.svg" width="32" height="32" alt=""/>       | nas       | Nebulas                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nav.svg" width="32" height="32" alt=""/>       | nav       | Navcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nbs.svg" width="32" height="32" alt=""/>       | nbs       | New BitShares                   |
@@ -385,6 +385,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snt.svg" width="32" height="32" alt=""/>       | snt       | Status                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/snx.svg" width="32" height="32" alt=""/>       | snx       | Synthetix Network Token         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sol.svg" width="32" height="32" alt=""/>       | sol       | Solana                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/solo.svg" width="32" height="32" alt=""/>      | solo      | Sologenic                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/sparta.svg" width="32" height="32" alt=""/>    | sparta    | Spartan Protocol                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/spartaold.svg" width="32" height="32" alt=""/> | spartaold | Spartan Protocol Old            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/spell.svg" width="32" height="32" alt=""/>     | spell     | Spell Token                     |
@@ -464,6 +465,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>       | xem       | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" alt=""/>       | xlm       | Stellar Lumens                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" alt=""/>       | xmr       | Monero                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xno.svg" width="32" height="32" alt=""/>       | xno       | Nano token                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xpr.svg" width="32" height="32" alt=""/>       | xpr       | Proton                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" alt=""/>       | xrp       | Ripple                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" alt=""/>       | xtz       | Tezos                           |

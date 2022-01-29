@@ -23,6 +23,18 @@ or
 $ yarn add binance-icons
 ```
 
+### Content Delivery Network (CDN)
+```
+https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/manifest.json
+```
+
+```
+https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/crypto/btc.svg
+https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/crypto/eth.svg
+https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/crypto/bnb.svg
+...
+```
+
 ### Zip Archive
 ```shell
 https://github.com/VadimMalykhin/binance-icons/archive/refs/heads/main.zip
