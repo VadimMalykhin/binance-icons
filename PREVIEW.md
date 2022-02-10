@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 477
+## Crypto 478
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -456,6 +456,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wing.svg" width="32" height="32" alt=""/>      | wing      | Wing Token                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wings.svg" width="32" height="32" alt=""/>     | wings     | WINGS                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wnxm.svg" width="32" height="32" alt=""/>      | wnxm      | Wrapped NXM                     |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/woo.svg" width="32" height="32" alt=""/>       | woo       | WOO Network                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" alt=""/>       | wpr       | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>       | wrx       | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wsol.svg" width="32" height="32" alt=""/>      | wsol      | Wrapped SOL                     |
@@ -465,7 +466,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xem.svg" width="32" height="32" alt=""/>       | xem       | NEM                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xlm.svg" width="32" height="32" alt=""/>       | xlm       | Stellar Lumens                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xmr.svg" width="32" height="32" alt=""/>       | xmr       | Monero                          |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xno.svg" width="32" height="32" alt=""/>       | xno       | Nano token                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xno.svg" width="32" height="32" alt=""/>       | xno       | Nano                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xpr.svg" width="32" height="32" alt=""/>       | xpr       | Proton                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xrp.svg" width="32" height="32" alt=""/>       | xrp       | Ripple                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/xtz.svg" width="32" height="32" alt=""/>       | xtz       | Tezos                           |
