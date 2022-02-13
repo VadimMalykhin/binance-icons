@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 478
+## Crypto 477
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -457,7 +457,6 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wings.svg" width="32" height="32" alt=""/>     | wings     | WINGS                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wnxm.svg" width="32" height="32" alt=""/>      | wnxm      | Wrapped NXM                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/woo.svg" width="32" height="32" alt=""/>       | woo       | WOO Network                     |
-| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wpr.svg" width="32" height="32" alt=""/>       | wpr       | WePower                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wrx.svg" width="32" height="32" alt=""/>       | wrx       | WazirX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wsol.svg" width="32" height="32" alt=""/>      | wsol      | Wrapped SOL                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/wtc.svg" width="32" height="32" alt=""/>       | wtc       | Walton                          |
