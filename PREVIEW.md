@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 482
+## Crypto 483
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -86,6 +86,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bot.svg" width="32" height="32" alt=""/>       | bot       | Bounce Token                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bqx.svg" width="32" height="32" alt=""/>       | bqx       | Old Voyager Token               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/brd.svg" width="32" height="32" alt=""/>       | brd       | Bread                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/bsw.svg" width="32" height="32" alt=""/>       | bsw       | Biswap                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btc.svg" width="32" height="32" alt=""/>       | btc       | Bitcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btcst.svg" width="32" height="32" alt=""/>     | btcst     | Bitcoin Standard Hashrate Token |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/btg.svg" width="32" height="32" alt=""/>       | btg       | Bitcoin Gold                    |
