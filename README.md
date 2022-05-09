@@ -18,10 +18,6 @@ The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a>
 ```shell
 $ npm install binance-icons
 ```
-or
-```shell
-$ yarn add binance-icons
-```
 
 ### Content Delivery Network (CDN)
 ```
