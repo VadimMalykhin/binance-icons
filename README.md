@@ -1,25 +1,29 @@
 <p align="center"><a href="https://github.com/VadimMalykhin/binance-icons"><img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/.github/assets/header.svg" alt="◆ BINANCE ICONS"></a></p>
 
 # ◆ BINANCE ICONS
+
 The Crypto/currency icons listed on <a href="https://bit.ly/3qEmuJp">Binance</a> exchange.
 
 ## Table of Contents
--   [Installation](#installation)
--   [Usage](#usage)
--   [Demo](#live-demo)
--   [Resources](#resources)
--   [Contributing](#contributing)
--   [Disclaimer](#disclaimer)
--   [License](#license)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#live-demo)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 
 ## Installation
 
 ### Package
+
 ```shell
 $ npm install binance-icons
 ```
 
 ### Content Delivery Network (CDN)
+
 ```
 https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/manifest.json
 ```
@@ -32,6 +36,7 @@ https://cdn.jsdelivr.net/gh/vadimmalykhin/binance-icons/crypto/bnb.svg
 ```
 
 ### Zip Archive
+
 ```shell
 https://github.com/VadimMalykhin/binance-icons/archive/refs/heads/main.zip
 ```
@@ -41,28 +46,39 @@ https://github.com/VadimMalykhin/binance-icons/archive/refs/heads/main.zip
 ### Node.js
 
 **JavaScript**
-```js
-const { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } = require('binance-icons');
 
-const hasBtc = icon.has('btc');
-const getBtc = icon.get('btc');
+```js
+const {
+  binanceCryptoIcons,
+  binanceEtfIcons,
+  binanceCurrencyIcons,
+} = require('binance-icons')
+
+const hasBtc = icon.has('btc')
+const getBtc = icon.get('btc')
 ```
 
 **TypeScript**
-```ts
-import { binanceCryptoIcons, binanceEtfIcons, binanceCurrencyIcons } from 'binance-icons';
 
-const hasBtc = icon.has('btc');
-const getBtc = icon.get('btc');
+```ts
+import {
+  binanceCryptoIcons,
+  binanceEtfIcons,
+  binanceCurrencyIcons,
+} from 'binance-icons'
+
+const hasBtc = icon.has('btc')
+const getBtc = icon.get('btc')
 ```
 
 ### Zip Archive
+
 Use the `manifest.json` file to resolve all available icons.
 
 ## Live demo
 
 - [Website](https://vadimmalykhin.github.io/binance-icons/)
-- [Preview](https://vadimmalykhin.github.io/binance-icons/main/PREVIEW.md)
+- [Preview](https://github.com/VadimMalykhin/binance-icons/blob/main/PREVIEW.md)
 
 ## Resources
 
@@ -80,4 +96,3 @@ All trademarks, logos and brand names are the property of their respective owner
 ## License
 
 [MIT](https://github.com/VadimMalykhin/binance-icons/blob/main/LICENSE)
-

@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 483
+## Crypto 491
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -157,6 +157,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/efi.svg" width="32" height="32" alt=""/>       | efi       | Efinity Token                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/egld.svg" width="32" height="32" alt=""/>      | egld      | Elrond eGold                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/elf.svg" width="32" height="32" alt=""/>       | elf       | aelf                            |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/elon.svg" width="32" height="32" alt=""/>      | elon      | Dogelon                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eng.svg" width="32" height="32" alt=""/>       | eng       | Enigma                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/enj.svg" width="32" height="32" alt=""/>       | enj       | Enjin Coin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ens.svg" width="32" height="32" alt=""/>       | ens       | Ethereum Name Service           |
@@ -190,6 +191,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fuel.svg" width="32" height="32" alt=""/>      | fuel      | Etherparty                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fun.svg" width="32" height="32" alt=""/>       | fun       | FunToken                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/fxs.svg" width="32" height="32" alt=""/>       | fxs       | Frax Share                      |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gal.svg" width="32" height="32" alt=""/>       | gal       | Project Galaxy                  |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gala.svg" width="32" height="32" alt=""/>      | gala      | Gala                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gas.svg" width="32" height="32" alt=""/>       | gas       | NeoGas                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ghst.svg" width="32" height="32" alt=""/>      | ghst      | Aavegotchi                      |
@@ -247,11 +249,13 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ksm.svg" width="32" height="32" alt=""/>       | ksm       | Kusama                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lazio.svg" width="32" height="32" alt=""/>     | lazio     | Lazio Fan Token                 |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lba.svg" width="32" height="32" alt=""/>       | lba       | Lend Borrow Asset               |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ldo.svg" width="32" height="32" alt=""/>       | ldo       | Lido DAO                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lend.svg" width="32" height="32" alt=""/>      | lend      | Aave                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lina.svg" width="32" height="32" alt=""/>      | lina      | Linear                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/link.svg" width="32" height="32" alt=""/>      | link      | ChainLink                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lit.svg" width="32" height="32" alt=""/>       | lit       | Litentry                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loka.svg" width="32" height="32" alt=""/>      | loka      | League of Kingdoms              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/looks.svg" width="32" height="32" alt=""/>     | looks     | LooksRare                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loom.svg" width="32" height="32" alt=""/>      | loom      | Loom Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/loomold.svg" width="32" height="32" alt=""/>   | loomold   | Old Loom Network                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lpt.svg" width="32" height="32" alt=""/>       | lpt       | Livepeer                        |
@@ -279,11 +283,13 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mith.svg" width="32" height="32" alt=""/>      | mith      | Mithril                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mkr.svg" width="32" height="32" alt=""/>       | mkr       | Maker                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mln.svg" width="32" height="32" alt=""/>       | mln       | Enzyme                          |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mob.svg" width="32" height="32" alt=""/>       | mob       | MobileCoin                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mod.svg" width="32" height="32" alt=""/>       | mod       | Modum                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/movr.svg" width="32" height="32" alt=""/>      | movr      | Moonriver                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mth.svg" width="32" height="32" alt=""/>       | mth       | Monetha                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtl.svg" width="32" height="32" alt=""/>       | mtl       | Metal                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mtlx.svg" width="32" height="32" alt=""/>      | mtlx      | Mettalex                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/multi.svg" width="32" height="32" alt=""/>     | multi     | Multichain                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nas.svg" width="32" height="32" alt=""/>       | nas       | Nebulas                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nav.svg" width="32" height="32" alt=""/>       | nav       | Navcoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nbs.svg" width="32" height="32" alt=""/>       | nbs       | New BitShares                   |
@@ -291,6 +297,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/near.svg" width="32" height="32" alt=""/>      | near      | NEAR Protocol                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nebl.svg" width="32" height="32" alt=""/>      | nebl      | Neblio                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/neo.svg" width="32" height="32" alt=""/>       | neo       | NEO                             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nexo.svg" width="32" height="32" alt=""/>      | nexo      | Nexo                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nft.svg" width="32" height="32" alt=""/>       | nft       | APENFT                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nkn.svg" width="32" height="32" alt=""/>       | nkn       | NKN                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/nmr.svg" width="32" height="32" alt=""/>       | nmr       | Numeraire                       |
@@ -357,6 +364,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rcn.svg" width="32" height="32" alt=""/>       | rcn       | Ripio Credit Network            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rdn.svg" width="32" height="32" alt=""/>       | rdn       | Raiden Network Token            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/reef.svg" width="32" height="32" alt=""/>      | reef      | Reef Finance                    |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rei.svg" width="32" height="32" alt=""/>       | rei       | REI Network                     |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ren.svg" width="32" height="32" alt=""/>       | ren       | Ren                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/renbtc.svg" width="32" height="32" alt=""/>    | renbtc    | renBTC                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/rep.svg" width="32" height="32" alt=""/>       | rep       | Augur v2                        |
