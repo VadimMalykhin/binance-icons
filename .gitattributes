@@ -1,3 +1,4 @@
 *     text=auto
+*.md text eol=lf
 *.svg text eol=lf
 *.png binary
