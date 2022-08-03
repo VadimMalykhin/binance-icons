@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.9.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.9.0) - 2022-08-03
+
+### Added
+
+#### Currencies
+
+- etb (Ethiopian Birr)
+- jod (Jordanian Dinar)
+- kgs (Kyrgyzstani Som)
+- khr (Cambodian riel)
+- kwd (Kuwaiti Dinar)
+
+
 ## [0.8.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.8.0) - 2022-07-24
 
 ### Added

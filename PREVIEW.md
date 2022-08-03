@@ -548,7 +548,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfidown.svg" width="32" height="32" alt=""/>   | yfidown   | YFIDOWN   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/yfiup.svg" width="32" height="32" alt=""/>     | yfiup     | YFIUP     |
 
-## Currency 39
+## Currency 44
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/aed.svg" width="32" height="32" alt=""/> | aed | United Arab Emirates dirham |
@@ -565,6 +565,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/czk.svg" width="32" height="32" alt=""/> | czk | Czech Koruny                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/dkk.svg" width="32" height="32" alt=""/> | dkk | Danish Kroner               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/dzd.svg" width="32" height="32" alt=""/> | dzd | Algerian Dinar              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/etb.svg" width="32" height="32" alt=""/> | etb | Ethiopian Birr              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/eur.svg" width="32" height="32" alt=""/> | eur | Euro                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/gbp.svg" width="32" height="32" alt=""/> | gbp | Pound Sterling              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/ghs.svg" width="32" height="32" alt=""/> | ghs | Ghanaian cedi               |
@@ -572,8 +573,12 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/huf.svg" width="32" height="32" alt=""/> | huf | Hungarian Forint            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/idr.svg" width="32" height="32" alt=""/> | idr | Indonesian Rupiah           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/inr.svg" width="32" height="32" alt=""/> | inr | INR                         |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/jod.svg" width="32" height="32" alt=""/> | jod | Jordanian Dinar             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/jpy.svg" width="32" height="32" alt=""/> | jpy | Japanese Yen                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kes.svg" width="32" height="32" alt=""/> | kes | Kenya Shilling              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kgs.svg" width="32" height="32" alt=""/> | kgs | Kyrgyzstani Som             |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/khr.svg" width="32" height="32" alt=""/> | khr | Cambodian riel              |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kwd.svg" width="32" height="32" alt=""/> | kwd | Kuwaiti Dinar               |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/kzt.svg" width="32" height="32" alt=""/> | kzt | Kazakhstani Tenge           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/mxn.svg" width="32" height="32" alt=""/> | mxn | Mexican Peso                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/currency/ngn.svg" width="32" height="32" alt=""/> | ngn | Nigerian Naira              |
