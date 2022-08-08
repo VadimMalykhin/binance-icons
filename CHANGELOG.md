@@ -1,5 +1,28 @@
 # Changelog
 
+
+## [0.10.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.10.0) - 2022-08-08
+
+### Added
+
+#### Currencies
+
+- bgn (Bulgarian Leva)
+- clp (Chilean Peso)
+- hrk (Croatia Kuna)
+- lak (Laotian Kip)
+- lyd (Libyan Dinar)
+- mnt (Mongolian Tughrik)
+- omr (Oman Rial)
+- sdg (Sudanese Pound)
+- tmt (Turkmenistani Manat)
+- tnd (Tunisian Dinar)
+- tzs (Tanzanian Shilling)
+- uzs (Uzbekistani Sum)
+- xaf (Central African CFA franc)
+- xof (West African CFA)
+
+
 ## [0.9.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.9.0) - 2022-08-03
 
 ### Added
