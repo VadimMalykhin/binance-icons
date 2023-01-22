@@ -1,6 +1,6 @@
 # Preview
 
-## Crypto 498
+## Crypto 506
 | Icon | Symbol | Name |
 |:----:|-------:|:-----|
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/1inch.svg" width="32" height="32" alt=""/>     | 1inch     | 1inch                           |
@@ -34,6 +34,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ape.svg" width="32" height="32" alt=""/>       | ape       | ApeCoin                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/api3.svg" width="32" height="32" alt=""/>      | api3      | API3                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/appc.svg" width="32" height="32" alt=""/>      | appc      | AppCoins                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/apt.svg" width="32" height="32" alt=""/>       | apt       | Aptos                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ar.svg" width="32" height="32" alt=""/>        | ar        | Arweave                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ardr.svg" width="32" height="32" alt=""/>      | ardr      | Ardor                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ark.svg" width="32" height="32" alt=""/>       | ark       | Ark                             |
@@ -172,6 +173,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/etc.svg" width="32" height="32" alt=""/>       | etc       | Ethereum Classic                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/eth.svg" width="32" height="32" alt=""/>       | eth       | Ethereum                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethbnt.svg" width="32" height="32" alt=""/>    | ethbnt    | BNT Smart Token Relay           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ethw.svg" width="32" height="32" alt=""/>      | ethw      | Ethereum PoW                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/evx.svg" width="32" height="32" alt=""/>       | evx       | Everex                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ez.svg" width="32" height="32" alt=""/>        | ez        | EasyFi                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/farm.svg" width="32" height="32" alt=""/>      | farm      | Harvest Finance                 |
@@ -199,6 +201,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glm.svg" width="32" height="32" alt=""/>       | glm       | Golem                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/glmr.svg" width="32" height="32" alt=""/>      | glmr      | Glimmer                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gmt.svg" width="32" height="32" alt=""/>       | gmt       | Green Metaverse Token           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gmx.svg" width="32" height="32" alt=""/>       | gmx       | GMX                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gno.svg" width="32" height="32" alt=""/>       | gno       | Gnosis                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/gnt.svg" width="32" height="32" alt=""/>       | gnt       | Golem                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/go.svg" width="32" height="32" alt=""/>        | go        | GoChain                         |
@@ -214,6 +217,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hc.svg" width="32" height="32" alt=""/>        | hc        | HyperCash                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hcc.svg" width="32" height="32" alt=""/>       | hcc       | HealthCare Chain                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hegic.svg" width="32" height="32" alt=""/>     | hegic     | Hegic                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hft.svg" width="32" height="32" alt=""/>       | hft       | Hashflow                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/high.svg" width="32" height="32" alt=""/>      | high      | Highstreet                      |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hive.svg" width="32" height="32" alt=""/>      | hive      | Hive                            |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/hnst.svg" width="32" height="32" alt=""/>      | hnst      | Honest                          |
@@ -270,6 +274,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/luna.svg" width="32" height="32" alt=""/>      | luna      | Terra                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/lunc.svg" width="32" height="32" alt=""/>      | lunc      | Terra Classic                   |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ma.svg" width="32" height="32" alt=""/>        | ma        | Manta Network                   |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/magic.svg" width="32" height="32" alt=""/>     | magic     | Magic                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mana.svg" width="32" height="32" alt=""/>      | mana      | Decentraland                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/mask.svg" width="32" height="32" alt=""/>      | mask      | Mask Network                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/matic.svg" width="32" height="32" alt=""/>     | matic     | Polygon                         |
@@ -324,6 +329,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ooki.svg" width="32" height="32" alt=""/>      | ooki      | OokiDAO                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/op.svg" width="32" height="32" alt=""/>        | op        | Optimism                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/orn.svg" width="32" height="32" alt=""/>       | orn       | Orion Protocol                  |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/osmo.svg" width="32" height="32" alt=""/>      | osmo      | Osmosis                         |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ost.svg" width="32" height="32" alt=""/>       | ost       | OST                             |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/oxt.svg" width="32" height="32" alt=""/>       | oxt       | Orchid                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/para.svg" width="32" height="32" alt=""/>      | para      | Parallel Finance                |
@@ -343,6 +349,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poe.svg" width="32" height="32" alt=""/>       | poe       | Po.et                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pols.svg" width="32" height="32" alt=""/>      | pols      | Polkastarter                    |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/poly.svg" width="32" height="32" alt=""/>      | poly      | Polymath                        |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/polyx.svg" width="32" height="32" alt=""/>     | polyx     | Polymesh                        |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/pond.svg" width="32" height="32" alt=""/>      | pond      | Marlin                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/porto.svg" width="32" height="32" alt=""/>     | porto     | FC Porto Fan Token              |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/powr.svg" width="32" height="32" alt=""/>      | powr      | PowerLedger                     |
@@ -410,6 +417,7 @@
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/srm.svg" width="32" height="32" alt=""/>       | srm       | Serum                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/ssv.svg" width="32" height="32" alt=""/>       | ssv       | SSV Token                       |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/steem.svg" width="32" height="32" alt=""/>     | steem     | Steem                           |
+| <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stg.svg" width="32" height="32" alt=""/>       | stg       | Stargate Finance                |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/stmx.svg" width="32" height="32" alt=""/>      | stmx      | StormX                          |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storj.svg" width="32" height="32" alt=""/>     | storj     | Storj                           |
 | <img src="https://raw.githubusercontent.com/VadimMalykhin/binance-icons/main/crypto/storm.svg" width="32" height="32" alt=""/>     | storm     | Storm                           |
