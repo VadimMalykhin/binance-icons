@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.11.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.11.0) - 2023-01-22
+
+### Added
+
+#### Crypto
+
+- `apt.svg`
+- `ethw.svg`
+- `gmx.svg`
+- `hft.svg`
+- `magic.svg`
+- `osmo.svg`
+- `polyx.svg`
+- `stg.svg`
+
+### Changed
+
+#### Crypto
+
+- `btt.svg` - Fixed the path.
+- `bttc.svg` - Fixed the path.
+
 
 ## [0.10.0](https://github.com/VadimMalykhin/binance-icons/releases/tag/v0.10.0) - 2022-08-08
 
